@@ -1,0 +1,1801 @@
+wine_name,vintage,region,predict_score,target_score,predict_price,target_price
+"Chateau Latour Premier Cru Classe, Pauillac",2023,Pauillac,95.69,-,735.64,-
+"Chateau Latour Premier Cru Classe, Pauillac",2022,Pauillac,95.66,98,733.22,-
+"Chateau Latour Premier Cru Classe, Pauillac",2021,Pauillac,95.63,96,730.81,-
+"Chateau Latour Premier Cru Classe, Pauillac",2020,Pauillac,95.6,97,728.39,-
+"Chateau Latour Premier Cru Classe, Pauillac",2019,Pauillac,95.57,98,725.98,-
+"Chateau Latour Premier Cru Classe, Pauillac",2018,Pauillac,95.54,98,723.56,92
+"Chateau Latour Premier Cru Classe, Pauillac",2017,Pauillac,95.51,96,721.15,75
+"Chateau Latour Premier Cru Classe, Pauillac",2016,Pauillac,95.48,98,718.73,231
+"Chateau Latour Premier Cru Classe, Pauillac",2015,Pauillac,95.45,96,716.32,761
+"Chateau Latour Premier Cru Classe, Pauillac",2014,Pauillac,95.41,96,713.9,674
+"Chateau Latour Premier Cru Classe, Pauillac",2013,Pauillac,95.38,93,711.49,610
+"Chateau Latour Premier Cru Classe, Pauillac",2012,Pauillac,95.35,94,709.07,645
+"Chateau Latour Premier Cru Classe, Pauillac",2011,Pauillac,95.32,94,706.66,729
+"Chateau Latour Premier Cru Classe, Pauillac",2010,Pauillac,95.29,98,704.24,1496
+"Chateau Latour Premier Cru Classe, Pauillac",2009,Pauillac,95.26,97,701.83,1406
+"Chateau Latour Premier Cru Classe, Pauillac",2008,Pauillac,95.23,95,699.41,640
+"Chateau Latour Premier Cru Classe, Pauillac",2007,Pauillac,95.2,92,697.0,604
+"Chateau Latour Premier Cru Classe, Pauillac",2006,Pauillac,95.17,94,694.58,760
+"Chateau Latour Premier Cru Classe, Pauillac",2005,Pauillac,95.14,97,692.16,1082
+"Chateau Latour Premier Cru Classe, Pauillac",2004,Pauillac,95.11,95,689.75,593
+"Chateau Latour Premier Cru Classe, Pauillac",2003,Pauillac,95.08,97,687.33,1005
+"Chateau Latour Premier Cru Classe, Pauillac",2002,Pauillac,95.05,95,684.92,656
+"Chateau Latour Premier Cru Classe, Pauillac",2001,Pauillac,95.02,94,682.5,689
+"Chateau Latour Premier Cru Classe, Pauillac",2000,Pauillac,94.99,96,680.09,1338
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2023,Pauillac,95.32,-,868.25,-
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2022,Pauillac,95.29,98,865.84,763
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2021,Pauillac,95.26,96,863.42,673
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2020,Pauillac,95.23,97,861.01,815
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2019,Pauillac,95.2,97,858.59,956
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2018,Pauillac,95.17,98,856.18,1133
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2017,Pauillac,95.14,95,853.76,831
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2016,Pauillac,95.11,97,851.35,1021
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2015,Pauillac,95.08,96,848.93,1059
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2014,Pauillac,95.05,95,846.52,829
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2013,Pauillac,95.02,92,844.1,774
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2012,Pauillac,94.99,93,841.69,819
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2011,Pauillac,94.96,94,839.27,793
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2010,Pauillac,94.93,97,836.85,1300
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2009,Pauillac,94.9,96,834.44,1199
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2008,Pauillac,94.87,94,832.02,980
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2007,Pauillac,94.84,93,829.61,876
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2006,Pauillac,94.81,95,827.19,867
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2005,Pauillac,94.78,96,824.78,1199
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2004,Pauillac,94.75,95,822.36,898
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2003,Pauillac,94.72,95,819.95,1160
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2002,Pauillac,94.69,93,817.53,827
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2001,Pauillac,94.66,94,815.12,893
+"Chateau Lafite Rothschild Premier Cru Classe, Pauillac",2000,Pauillac,94.62,97,812.7,1727
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2023,Pauillac,92.29,-,244.65,-
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2022,Pauillac,92.26,95,242.22,79
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2021,Pauillac,92.23,92,239.79,70
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2020,Pauillac,92.2,94,237.37,85
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2019,Pauillac,92.17,95,234.94,90
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2018,Pauillac,92.14,93,232.51,92
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2017,Pauillac,92.11,92,230.08,85
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2016,Pauillac,92.08,94,227.66,103
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2015,Pauillac,92.05,93,225.23,89
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2014,Pauillac,92.02,93,222.8,73
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2013,Pauillac,91.99,90,220.37,54
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2012,Pauillac,91.96,91,217.95,71
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2011,Pauillac,91.93,90,215.52,73
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2010,Pauillac,91.9,93,213.09,116
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2009,Pauillac,91.87,94,210.66,119
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2008,Pauillac,91.84,90,208.24,76
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2007,Pauillac,91.81,90,205.81,76
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2006,Pauillac,91.78,91,203.38,90
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2005,Pauillac,91.75,93,200.95,144
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2004,Pauillac,91.72,91,198.53,77
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2003,Pauillac,91.69,90,196.1,89
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2002,Pauillac,91.66,88,193.67,84
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2001,Pauillac,91.63,89,191.24,117
+"Chateau Grand-Puy-Lacoste 5eme Cru Classe, Pauillac",2000,Pauillac,91.6,92,188.82,159
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2023,Saint-Julien,91.75,-,237.06,-
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2022,Saint-Julien,91.72,94,234.63,93
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2021,Saint-Julien,91.69,92,232.2,93
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2020,Saint-Julien,91.66,94,229.77,121
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2019,Saint-Julien,91.63,93,227.35,133
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2018,Saint-Julien,91.6,94,224.92,125
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2017,Saint-Julien,91.57,93,222.49,121
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2016,Saint-Julien,91.54,93,220.06,137
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2015,Saint-Julien,91.51,93,217.64,145
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2014,Saint-Julien,91.48,92,215.21,130
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2013,Saint-Julien,91.45,90,212.78,125
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2012,Saint-Julien,91.42,91,210.35,139
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2011,Saint-Julien,91.39,90,207.93,134
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2010,Saint-Julien,91.36,92,205.5,155
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2009,Saint-Julien,91.33,92,203.07,149
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2008,Saint-Julien,91.3,90,200.64,127
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2007,Saint-Julien,91.27,88,198.22,137
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2006,Saint-Julien,91.24,90,195.79,132
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2005,Saint-Julien,91.21,91,193.36,161
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2004,Saint-Julien,91.18,89,190.93,129
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2003,Saint-Julien,91.15,89,188.51,132
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2002,Saint-Julien,91.12,88,186.08,113
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2001,Saint-Julien,91.09,89,183.65,124
+"Chateau Beychevelle 4eme Cru Classe, Saint-Julien",2000,Saint-Julien,91.06,91,181.22,173
+"Domaine Jean Louis Chave, Hermitage, Rouge",2023,Hermitage,95.07,-,521.32,-
+"Domaine Jean Louis Chave, Hermitage, Rouge",2022,Hermitage,95.07,-,521.32,-
+"Domaine Jean Louis Chave, Hermitage, Rouge",2021,Hermitage,95.01,94,516.48,321
+"Domaine Jean Louis Chave, Hermitage, Rouge",2020,Hermitage,94.98,95,514.07,413
+"Domaine Jean Louis Chave, Hermitage, Rouge",2019,Hermitage,94.95,97,511.66,443
+"Domaine Jean Louis Chave, Hermitage, Rouge",2018,Hermitage,94.92,96,509.24,480
+"Domaine Jean Louis Chave, Hermitage, Rouge",2017,Hermitage,94.89,96,506.82,431
+"Domaine Jean Louis Chave, Hermitage, Rouge",2016,Hermitage,94.86,96,504.41,437
+"Domaine Jean Louis Chave, Hermitage, Rouge",2015,Hermitage,94.83,98,501.99,625
+"Domaine Jean Louis Chave, Hermitage, Rouge",2014,Hermitage,94.8,95,499.58,417
+"Domaine Jean Louis Chave, Hermitage, Rouge",2013,Hermitage,94.77,95,497.16,413
+"Domaine Jean Louis Chave, Hermitage, Rouge",2012,Hermitage,94.74,94,494.75,428
+"Domaine Jean Louis Chave, Hermitage, Rouge",2011,Hermitage,94.71,95,492.33,405
+"Domaine Jean Louis Chave, Hermitage, Rouge",2010,Hermitage,94.68,97,489.92,873
+"Domaine Jean Louis Chave, Hermitage, Rouge",2009,Hermitage,94.65,96,487.5,781
+"Domaine Jean Louis Chave, Hermitage, Rouge",2008,Hermitage,94.62,92,485.09,416
+"Domaine Jean Louis Chave, Hermitage, Rouge",2007,Hermitage,94.59,94,482.67,523
+"Domaine Jean Louis Chave, Hermitage, Rouge",2006,Hermitage,94.56,94,480.26,496
+"Domaine Jean Louis Chave, Hermitage, Rouge",2005,Hermitage,94.53,96,477.84,647
+"Domaine Jean Louis Chave, Hermitage, Rouge",2004,Hermitage,94.5,95,475.43,517
+"Domaine Jean Louis Chave, Hermitage, Rouge",2003,Hermitage,94.47,96,473.01,1018
+"Domaine Jean Louis Chave, Hermitage, Rouge",2002,Hermitage,94.44,90,470.6,448
+"Domaine Jean Louis Chave, Hermitage, Rouge",2001,Hermitage,94.41,94,468.18,685
+"Domaine Jean Louis Chave, Hermitage, Rouge",2000,Hermitage,94.38,94,465.76,605
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2023,Hermitage,93.99,-,282.81,-
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2022,Hermitage,93.99,-,282.81,-
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2021,Hermitage,93.93,95,277.96,251
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2020,Hermitage,93.9,93,275.53,198
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2019,Hermitage,93.87,97,273.1,219
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2018,Hermitage,93.84,95,270.68,210
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2017,Hermitage,93.81,94,268.25,193
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2016,Hermitage,93.78,95,265.82,193
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2015,Hermitage,93.74,98,263.39,273
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2014,Hermitage,93.71,94,260.97,166
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2013,Hermitage,93.68,93,258.54,197
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2012,Hermitage,93.65,94,256.11,171
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2011,Hermitage,93.62,93,253.68,183
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2010,Hermitage,93.59,95,251.26,230
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2009,Hermitage,93.56,95,248.83,229
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2008,Hermitage,93.56,95,248.83,229
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2007,Hermitage,93.5,93,243.98,172
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2006,Hermitage,93.47,91,241.55,180
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2005,Hermitage,93.44,92,239.12,181
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2004,Hermitage,93.41,91,236.69,153
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2003,Hermitage,93.38,93,234.26,165
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2002,Hermitage,93.35,88,231.84,116
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2001,Hermitage,93.32,91,229.41,153
+"Paul Jaboulet Aine, Hermitage, La Chapelle Rouge",2000,Hermitage,93.29,90,226.98,145
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2023,Pessac-Leognan,95.0,-,549.74,-
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2022,Pessac-Leognan,94.97,96,547.33,343
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2021,Pessac-Leognan,94.94,95,544.91,303
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2020,Pessac-Leognan,94.91,96,542.5,371
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2019,Pessac-Leognan,94.88,96,540.08,583
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2018,Pessac-Leognan,94.85,96,537.67,439
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2017,Pessac-Leognan,94.82,95,535.25,353
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2016,Pessac-Leognan,94.79,96,532.84,530
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2015,Pessac-Leognan,94.76,96,530.42,482
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2014,Pessac-Leognan,94.73,94,528.01,241
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2013,Pessac-Leognan,94.7,92,525.59,198
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2012,Pessac-Leognan,94.67,94,523.18,263
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2011,Pessac-Leognan,94.64,93,520.76,296
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2010,Pessac-Leognan,94.61,97,518.35,822
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2009,Pessac-Leognan,94.58,96,515.93,782
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2008,Pessac-Leognan,94.55,93,513.52,263
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2007,Pessac-Leognan,94.52,92,511.1,283
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2006,Pessac-Leognan,94.49,93,508.68,381
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2005,Pessac-Leognan,94.46,96,506.27,656
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2004,Pessac-Leognan,94.43,92,503.85,269
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2003,Pessac-Leognan,94.4,93,501.44,304
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2002,Pessac-Leognan,94.37,91,499.02,234
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2001,Pessac-Leognan,94.34,93,496.61,368
+"Chateau La Mission Haut-Brion Cru Classe, Pessac-Leognan",2000,Pessac-Leognan,94.31,95,494.19,769
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2023,Saint-Julien,94.26,-,504.06,-
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2022,Saint-Julien,94.23,97,501.64,242
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2021,Saint-Julien,94.2,95,499.23,221
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2020,Saint-Julien,94.17,96,496.81,261
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2019,Saint-Julien,94.14,96,494.4,228
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2018,Saint-Julien,94.11,96,491.98,252
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2017,Saint-Julien,94.08,95,489.57,203
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2016,Saint-Julien,94.05,97,487.15,248
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2015,Saint-Julien,94.02,96,484.74,236
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2014,Saint-Julien,93.99,95,482.32,182
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2013,Saint-Julien,93.96,92,479.91,178
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2012,Saint-Julien,93.93,93,477.49,204
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2011,Saint-Julien,93.9,93,475.08,166
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2010,Saint-Julien,93.87,96,472.66,321
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2009,Saint-Julien,93.84,96,470.25,413
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2008,Saint-Julien,93.81,93,467.83,203
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2007,Saint-Julien,93.78,91,465.42,187
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2006,Saint-Julien,93.75,93,463.0,232
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2005,Saint-Julien,93.72,94,460.59,331
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2004,Saint-Julien,93.69,92,458.17,191
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2003,Saint-Julien,93.66,92,455.76,228
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2002,Saint-Julien,93.63,89,453.34,169
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2001,Saint-Julien,93.6,91,450.92,205
+"Ducru-Beaucaillou 2eme Cru Classe, Saint-Julien",2000,Saint-Julien,93.57,93,448.51,309
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2023,Saint-Estephe,93.12,-,278.35,-
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2022,Saint-Estephe,93.09,96,275.92,144
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2021,Saint-Estephe,93.06,94,273.49,119
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2020,Saint-Estephe,93.03,96,271.07,144
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2019,Saint-Estephe,93.0,95,268.64,141
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2018,Saint-Estephe,92.97,95,266.21,155
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2017,Saint-Estephe,92.94,94,263.78,123
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2016,Saint-Estephe,92.91,96,261.36,173
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2015,Saint-Estephe,92.88,93,258.93,157
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2014,Saint-Estephe,92.85,94,256.5,133
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2013,Saint-Estephe,92.82,91,254.07,125
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2012,Saint-Estephe,92.79,92,251.65,139
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2011,Saint-Estephe,92.76,92,249.22,141
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2010,Saint-Estephe,92.73,93,246.79,199
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2009,Saint-Estephe,92.7,94,244.36,192
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2008,Saint-Estephe,92.67,91,241.94,151
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2007,Saint-Estephe,92.64,89,239.51,139
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2006,Saint-Estephe,92.61,91,237.08,154
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2005,Saint-Estephe,92.58,93,234.65,181
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2004,Saint-Estephe,92.55,88,232.23,135
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2003,Saint-Estephe,92.52,92,229.8,161
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2002,Saint-Estephe,92.49,89,227.37,137
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2001,Saint-Estephe,92.46,88,224.94,160
+"Chateau Calon Segur 3eme Cru Classe, Saint-Estephe",2000,Saint-Estephe,92.43,91,222.52,196
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2023,Cote de Beaune,94.61,-,1155.43,-
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2022,Cote de Beaune,94.61,-,1155.43,-
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2021,Cote de Beaune,94.55,96,1150.63,2194
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2020,Cote de Beaune,94.52,95,1148.22,1659
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2019,Cote de Beaune,94.49,96,1145.82,1461
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2018,Cote de Beaune,94.46,96,1143.41,1415
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2017,Cote de Beaune,94.43,95,1141.01,1358
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2016,Cote de Beaune,94.4,94,1138.61,1232
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2015,Cote de Beaune,94.37,94,1136.2,1181
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2014,Cote de Beaune,94.34,94,1133.8,1374
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2013,Cote de Beaune,94.31,94,1131.4,1130
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2012,Cote de Beaune,94.28,95,1128.99,1504
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2011,Cote de Beaune,94.25,94,1126.59,1348
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2010,Cote de Beaune,94.22,96,1124.19,1462
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2009,Cote de Beaune,94.19,94,1121.78,1478
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2008,Cote de Beaune,94.16,94,1119.38,1408
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2007,Cote de Beaune,94.13,94,1116.97,1378
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2006,Cote de Beaune,94.1,94,1114.57,1325
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2005,Cote de Beaune,94.07,95,1112.17,1253
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2004,Cote de Beaune,94.04,93,1109.76,1226
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2003,Cote de Beaune,94.01,91,1107.36,1244
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2002,Cote de Beaune,93.98,94,1104.96,1569
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2001,Cote de Beaune,93.95,92,1102.55,1320
+"Domaine Leflaive, Batard-Montrachet Grand Cru",2000,Cote de Beaune,93.92,93,1100.15,1403
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2023,Saint-Emilion Grand Cru,94.46,-,427.22,-
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2022,Saint-Emilion Grand Cru,94.43,97,424.8,387
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2021,Saint-Emilion Grand Cru,94.4,94,422.39,312
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2020,Saint-Emilion Grand Cru,94.37,97,419.97,354
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2019,Saint-Emilion Grand Cru,94.34,96,417.56,368
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2018,Saint-Emilion Grand Cru,94.31,96,415.14,426
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2017,Saint-Emilion Grand Cru,94.28,95,412.72,381
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2016,Saint-Emilion Grand Cru,94.25,97,410.31,448
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2015,Saint-Emilion Grand Cru,94.22,95,407.89,423
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2014,Saint-Emilion Grand Cru,94.19,93,405.48,284
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2013,Saint-Emilion Grand Cru,94.16,91,403.06,262
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2012,Saint-Emilion Grand Cru,94.13,94,400.65,383
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2011,Saint-Emilion Grand Cru,94.1,92,398.23,264
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2010,Saint-Emilion Grand Cru,94.07,95,395.82,508
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2009,Saint-Emilion Grand Cru,94.04,94,393.4,416
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2008,Saint-Emilion Grand Cru,94.01,93,390.99,323
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2007,Saint-Emilion Grand Cru,93.98,92,388.57,301
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2006,Saint-Emilion Grand Cru,93.95,93,386.16,321
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2005,Saint-Emilion Grand Cru,93.92,95,383.74,525
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2004,Saint-Emilion Grand Cru,93.89,92,381.33,306
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2003,Saint-Emilion Grand Cru,93.86,93,378.91,323
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2002,Saint-Emilion Grand Cru,93.83,92,376.5,317
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2001,Saint-Emilion Grand Cru,93.8,93,374.08,352
+"Chateau Pavie Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2000,Saint-Emilion Grand Cru,93.77,95,371.67,686
+"Chateau L'Evangile, Pomerol",2023,Pomerol,94.13,-,318.9,-
+"Chateau L'Evangile, Pomerol",2022,Pomerol,94.1,95,316.48,308
+"Chateau L'Evangile, Pomerol",2021,Pomerol,94.07,93,314.05,268
+"Chateau L'Evangile, Pomerol",2020,Pomerol,94.04,95,311.62,264
+"Chateau L'Evangile, Pomerol",2019,Pomerol,94.01,94,309.19,234
+"Chateau L'Evangile, Pomerol",2018,Pomerol,93.98,95,306.77,310
+"Chateau L'Evangile, Pomerol",2017,Pomerol,93.95,94,304.34,252
+"Chateau L'Evangile, Pomerol",2016,Pomerol,93.92,96,301.91,292
+"Chateau L'Evangile, Pomerol",2015,Pomerol,93.89,95,299.48,267
+"Chateau L'Evangile, Pomerol",2014,Pomerol,93.86,93,297.06,175
+"Chateau L'Evangile, Pomerol",2013,Pomerol,93.83,91,294.63,157
+"Chateau L'Evangile, Pomerol",2012,Pomerol,93.8,93,292.2,167
+"Chateau L'Evangile, Pomerol",2011,Pomerol,93.77,92,289.77,183
+"Chateau L'Evangile, Pomerol",2010,Pomerol,93.74,94,287.35,305
+"Chateau L'Evangile, Pomerol",2009,Pomerol,93.71,95,284.92,444
+"Chateau L'Evangile, Pomerol",2008,Pomerol,93.68,93,282.49,193
+"Chateau L'Evangile, Pomerol",2007,Pomerol,93.65,91,280.06,172
+"Chateau L'Evangile, Pomerol",2006,Pomerol,93.62,92,277.64,202
+"Chateau L'Evangile, Pomerol",2005,Pomerol,93.59,95,275.21,359
+"Chateau L'Evangile, Pomerol",2004,Pomerol,93.56,92,272.78,231
+"Chateau L'Evangile, Pomerol",2003,Pomerol,93.53,90,270.35,176
+"Chateau L'Evangile, Pomerol",2002,Pomerol,93.5,91,267.93,212
+"Chateau L'Evangile, Pomerol",2001,Pomerol,93.47,91,265.5,241
+"Chateau L'Evangile, Pomerol",2000,Pomerol,93.44,94,263.07,494
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2023,Chateauneuf-du-Pape,93.52,-,400.02,-
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2022,Chateauneuf-du-Pape,93.52,-,400.02,-
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2021,Chateauneuf-du-Pape,93.46,92,395.21,89
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2020,Chateauneuf-du-Pape,93.43,94,392.81,106
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2019,Chateauneuf-du-Pape,93.4,93,390.4,93
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2018,Chateauneuf-du-Pape,93.37,94,388.0,91
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2017,Chateauneuf-du-Pape,93.34,93,385.59,87
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2016,Chateauneuf-du-Pape,93.31,95,383.19,102
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2015,Chateauneuf-du-Pape,93.28,94,380.79,96
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2014,Chateauneuf-du-Pape,93.25,92,378.38,86
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2013,Chateauneuf-du-Pape,93.22,92,375.98,76
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2012,Chateauneuf-du-Pape,93.19,93,373.58,96
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2011,Chateauneuf-du-Pape,93.16,92,371.17,95
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2010,Chateauneuf-du-Pape,93.13,94,368.77,124
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2009,Chateauneuf-du-Pape,93.1,93,366.37,121
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2008,Chateauneuf-du-Pape,93.07,92,363.96,76
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2007,Chateauneuf-du-Pape,93.04,94,361.56,122
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2006,Chateauneuf-du-Pape,93.01,94,359.15,122
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2005,Chateauneuf-du-Pape,92.98,93,356.75,122
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2004,Chateauneuf-du-Pape,92.95,93,354.35,103
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2003,Chateauneuf-du-Pape,92.92,93,351.94,95
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2002,Chateauneuf-du-Pape,92.89,94,349.54,125
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2001,Chateauneuf-du-Pape,92.86,92,347.14,128
+"Chateau de Beaucastel Rouge, Chateauneuf-du-Pape",2000,Chateauneuf-du-Pape,92.83,92,344.73,116
+"Chateau Palmer 3eme Cru Classe, Margaux",2023,Margaux,94.08,-,492.51,-
+"Chateau Palmer 3eme Cru Classe, Margaux",2022,Margaux,94.05,97,490.1,383
+"Chateau Palmer 3eme Cru Classe, Margaux",2021,Margaux,94.02,94,487.68,319
+"Chateau Palmer 3eme Cru Classe, Margaux",2020,Margaux,93.99,96,485.27,362
+"Chateau Palmer 3eme Cru Classe, Margaux",2019,Margaux,93.96,97,482.85,316
+"Chateau Palmer 3eme Cru Classe, Margaux",2018,Margaux,93.93,97,480.44,465
+"Chateau Palmer 3eme Cru Classe, Margaux",2017,Margaux,93.9,95,478.02,319
+"Chateau Palmer 3eme Cru Classe, Margaux",2016,Margaux,93.87,97,475.61,402
+"Chateau Palmer 3eme Cru Classe, Margaux",2015,Margaux,93.84,96,473.19,399
+"Chateau Palmer 3eme Cru Classe, Margaux",2014,Margaux,93.81,94,470.78,301
+"Chateau Palmer 3eme Cru Classe, Margaux",2013,Margaux,93.78,91,468.36,467
+"Chateau Palmer 3eme Cru Classe, Margaux",2012,Margaux,93.75,94,465.95,332
+"Chateau Palmer 3eme Cru Classe, Margaux",2011,Margaux,93.72,93,463.53,325
+"Chateau Palmer 3eme Cru Classe, Margaux",2010,Margaux,93.69,96,461.12,410
+"Chateau Palmer 3eme Cru Classe, Margaux",2009,Margaux,93.66,96,458.7,466
+"Chateau Palmer 3eme Cru Classe, Margaux",2008,Margaux,93.63,93,456.29,312
+"Chateau Palmer 3eme Cru Classe, Margaux",2007,Margaux,93.6,91,453.87,287
+"Chateau Palmer 3eme Cru Classe, Margaux",2006,Margaux,93.57,93,451.46,322
+"Chateau Palmer 3eme Cru Classe, Margaux",2005,Margaux,93.54,95,449.04,460
+"Chateau Palmer 3eme Cru Classe, Margaux",2004,Margaux,93.51,92,446.62,301
+"Chateau Palmer 3eme Cru Classe, Margaux",2003,Margaux,93.48,91,444.21,289
+"Chateau Palmer 3eme Cru Classe, Margaux",2002,Margaux,93.45,91,441.79,289
+"Chateau Palmer 3eme Cru Classe, Margaux",2001,Margaux,93.42,91,439.38,337
+"Chateau Palmer 3eme Cru Classe, Margaux",2000,Margaux,93.39,93,436.96,493
+"Chateau Margaux Premier Cru Classe, Margaux",2023,Margaux,95.65,-,717.93,-
+"Chateau Margaux Premier Cru Classe, Margaux",2022,Margaux,95.62,97,715.51,692
+"Chateau Margaux Premier Cru Classe, Margaux",2021,Margaux,95.59,96,713.1,576
+"Chateau Margaux Premier Cru Classe, Margaux",2020,Margaux,95.56,98,710.68,740
+"Chateau Margaux Premier Cru Classe, Margaux",2019,Margaux,95.53,98,708.27,840
+"Chateau Margaux Premier Cru Classe, Margaux",2018,Margaux,95.5,97,705.85,867
+"Chateau Margaux Premier Cru Classe, Margaux",2017,Margaux,95.47,96,703.44,583
+"Chateau Margaux Premier Cru Classe, Margaux",2016,Margaux,95.44,97,701.02,828
+"Chateau Margaux Premier Cru Classe, Margaux",2015,Margaux,95.41,98,698.61,1801
+"Chateau Margaux Premier Cru Classe, Margaux",2014,Margaux,95.38,95,696.19,593
+"Chateau Margaux Premier Cru Classe, Margaux",2013,Margaux,95.35,93,693.78,517
+"Chateau Margaux Premier Cru Classe, Margaux",2012,Margaux,95.32,94,691.36,614
+"Chateau Margaux Premier Cru Classe, Margaux",2011,Margaux,95.29,94,688.94,569
+"Chateau Margaux Premier Cru Classe, Margaux",2010,Margaux,95.26,97,686.53,1055
+"Chateau Margaux Premier Cru Classe, Margaux",2009,Margaux,95.23,98,684.11,1097
+"Chateau Margaux Premier Cru Classe, Margaux",2008,Margaux,95.2,94,681.7,577
+"Chateau Margaux Premier Cru Classe, Margaux",2007,Margaux,95.17,93,679.28,535
+"Chateau Margaux Premier Cru Classe, Margaux",2006,Margaux,95.14,94,676.87,603
+"Chateau Margaux Premier Cru Classe, Margaux",2005,Margaux,95.11,97,674.45,1082
+"Chateau Margaux Premier Cru Classe, Margaux",2004,Margaux,95.08,94,672.04,605
+"Chateau Margaux Premier Cru Classe, Margaux",2003,Margaux,95.05,96,669.62,747
+"Chateau Margaux Premier Cru Classe, Margaux",2002,Margaux,95.02,92,667.21,565
+"Chateau Margaux Premier Cru Classe, Margaux",2001,Margaux,94.99,94,664.79,670
+"Chateau Margaux Premier Cru Classe, Margaux",2000,Margaux,94.96,97,662.38,1336
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2023,Pauillac,94.19,-,289.66,-
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2022,Pauillac,94.16,96,287.23,177
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2021,Pauillac,94.13,94,284.81,150
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2020,Pauillac,94.1,96,282.38,189
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2019,Pauillac,94.07,97,279.95,198
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2018,Pauillac,94.04,96,277.52,197
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2017,Pauillac,94.01,94,275.1,162
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2016,Pauillac,93.98,96,272.67,199
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2015,Pauillac,93.95,95,270.24,182
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2014,Pauillac,93.92,94,267.82,176
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2013,Pauillac,93.89,91,265.39,134
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2012,Pauillac,93.86,92,262.96,167
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2011,Pauillac,93.83,92,260.53,151
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2010,Pauillac,93.8,96,258.1,246
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2009,Pauillac,93.77,95,255.68,237
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2008,Pauillac,93.74,93,253.25,169
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2007,Pauillac,93.71,91,250.82,159
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2006,Pauillac,93.67,92,248.4,164
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2005,Pauillac,93.64,94,245.97,226
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2004,Pauillac,93.61,92,243.54,169
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2003,Pauillac,93.58,93,241.11,197
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2002,Pauillac,93.55,91,238.69,176
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2001,Pauillac,93.52,92,236.26,209
+"Chateau Pichon Baron 2eme Cru Classe, Pauillac",2000,Pauillac,93.49,94,233.83,319
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2023,Cote de Beaune,94.1,-,812.8,-
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2022,Cote de Beaune,94.1,-,812.8,-
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2021,Cote de Beaune,94.1,-,812.8,-
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2020,Cote de Beaune,94.01,91,805.56,919
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2019,Cote de Beaune,93.98,94,803.14,991
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2018,Cote de Beaune,93.95,95,800.72,1026
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2017,Cote de Beaune,93.92,95,798.31,998
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2016,Cote de Beaune,93.89,95,795.89,852
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2015,Cote de Beaune,93.86,94,793.48,798
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2014,Cote de Beaune,93.83,95,791.06,1194
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2013,Cote de Beaune,93.8,94,788.65,909
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2012,Cote de Beaune,93.77,94,786.23,1125
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2011,Cote de Beaune,93.74,95,783.82,1010
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2010,Cote de Beaune,93.71,94,781.4,1145
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2009,Cote de Beaune,93.68,94,778.99,989
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2008,Cote de Beaune,93.65,94,776.57,984
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2007,Cote de Beaune,93.62,94,774.16,1002
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2006,Cote de Beaune,93.59,92,771.74,1011
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2005,Cote de Beaune,93.56,94,769.33,899
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2004,Cote de Beaune,93.53,94,766.91,941
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2003,Cote de Beaune,93.5,91,764.5,996
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2002,Cote de Beaune,93.47,94,762.08,1171
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2001,Cote de Beaune,93.44,93,759.67,978
+"Joseph Drouhin, Montrachet Grand Cru, Marquis de Laguiche",2000,Cote de Beaune,93.41,92,757.25,841
+"Pavillon Rouge du Chateau Margaux, Margaux",2023,Margaux,92.31,-,414.28,-
+"Pavillon Rouge du Chateau Margaux, Margaux",2022,Margaux,92.28,93,411.86,200
+"Pavillon Rouge du Chateau Margaux, Margaux",2021,Margaux,92.25,92,409.43,189
+"Pavillon Rouge du Chateau Margaux, Margaux",2020,Margaux,92.22,93,407.0,232
+"Pavillon Rouge du Chateau Margaux, Margaux",2019,Margaux,92.19,94,404.57,230
+"Pavillon Rouge du Chateau Margaux, Margaux",2018,Margaux,92.15,93,402.15,236
+"Pavillon Rouge du Chateau Margaux, Margaux",2017,Margaux,92.12,92,399.72,226
+"Pavillon Rouge du Chateau Margaux, Margaux",2016,Margaux,92.09,93,397.29,232
+"Pavillon Rouge du Chateau Margaux, Margaux",2015,Margaux,92.06,93,394.86,260
+"Pavillon Rouge du Chateau Margaux, Margaux",2014,Margaux,92.03,92,392.44,220
+"Pavillon Rouge du Chateau Margaux, Margaux",2013,Margaux,92.0,89,390.01,221
+"Pavillon Rouge du Chateau Margaux, Margaux",2012,Margaux,91.97,90,387.58,234
+"Pavillon Rouge du Chateau Margaux, Margaux",2011,Margaux,91.94,90,385.16,213
+"Pavillon Rouge du Chateau Margaux, Margaux",2010,Margaux,91.91,92,382.73,251
+"Pavillon Rouge du Chateau Margaux, Margaux",2009,Margaux,91.88,92,380.3,309
+"Pavillon Rouge du Chateau Margaux, Margaux",2008,Margaux,91.85,89,377.87,220
+"Pavillon Rouge du Chateau Margaux, Margaux",2007,Margaux,91.82,89,375.44,225
+"Pavillon Rouge du Chateau Margaux, Margaux",2006,Margaux,91.79,89,373.02,225
+"Pavillon Rouge du Chateau Margaux, Margaux",2005,Margaux,91.76,91,370.59,317
+"Pavillon Rouge du Chateau Margaux, Margaux",2004,Margaux,91.73,90,368.16,215
+"Pavillon Rouge du Chateau Margaux, Margaux",2003,Margaux,91.7,90,365.73,232
+"Pavillon Rouge du Chateau Margaux, Margaux",2002,Margaux,91.67,88,363.31,215
+"Pavillon Rouge du Chateau Margaux, Margaux",2001,Margaux,91.64,89,360.88,213
+"Pavillon Rouge du Chateau Margaux, Margaux",2000,Margaux,91.61,91,358.45,271
+"Le Pin, Pomerol",2023,Pomerol,94.95,-,4350.33,-
+"Le Pin, Pomerol",2022,Pomerol,94.92,97,4347.49,4218
+"Le Pin, Pomerol",2021,Pomerol,94.89,94,4344.61,3229
+"Le Pin, Pomerol",2020,Pomerol,94.86,97,4341.6,4095
+"Le Pin, Pomerol",2019,Pomerol,94.83,95,4338.6,4326
+"Le Pin, Pomerol",2018,Pomerol,94.8,96,4335.6,4373
+"Le Pin, Pomerol",2017,Pomerol,94.77,94,4332.59,3241
+"Le Pin, Pomerol",2016,Pomerol,94.74,97,4329.59,4442
+"Le Pin, Pomerol",2015,Pomerol,94.71,97,4326.59,4916
+"Le Pin, Pomerol",2014,Pomerol,94.68,94,4323.58,3620
+"Le Pin, Pomerol",2013,Pomerol,94.68,94,4323.58,3620
+"Le Pin, Pomerol",2012,Pomerol,94.62,94,4317.57,3590
+"Le Pin, Pomerol",2011,Pomerol,94.59,93,4314.57,3487
+"Le Pin, Pomerol",2010,Pomerol,94.56,96,4311.57,5336
+"Le Pin, Pomerol",2009,Pomerol,94.53,96,4308.56,5913
+"Le Pin, Pomerol",2008,Pomerol,94.5,94,4305.56,3576
+"Le Pin, Pomerol",2007,Pomerol,94.47,91,4302.56,3367
+"Le Pin, Pomerol",2006,Pomerol,94.44,94,4299.55,3438
+"Le Pin, Pomerol",2005,Pomerol,94.41,94,4296.55,4077
+"Le Pin, Pomerol",2004,Pomerol,94.38,94,4293.54,3219
+"Le Pin, Pomerol",2003,Pomerol,94.38,94,4293.54,3219
+"Le Pin, Pomerol",2002,Pomerol,94.32,91,4287.54,3298
+"Le Pin, Pomerol",2001,Pomerol,94.28,94,4284.53,4701
+"Le Pin, Pomerol",2000,Pomerol,94.25,95,4281.53,5818
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2023,Cote de Nuits,96.41,-,6564.12,-
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2022,Cote de Nuits,96.41,-,6564.12,-
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2021,Cote de Nuits,96.35,96,6567.15,-
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2020,Cote de Nuits,96.32,97,6568.66,7647
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2019,Cote de Nuits,96.29,98,6570.17,8157
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2018,Cote de Nuits,96.26,97,6571.68,6839
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2017,Cote de Nuits,96.23,96,6573.19,6212
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2016,Cote de Nuits,96.2,97,6574.7,6874
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2015,Cote de Nuits,96.17,98,6576.21,8294
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2014,Cote de Nuits,96.14,96,6577.71,6283
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2013,Cote de Nuits,96.11,96,6579.21,6325
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2012,Cote de Nuits,96.08,96,6580.72,6403
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2011,Cote de Nuits,96.05,95,6582.22,6906
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2010,Cote de Nuits,96.02,97,6583.72,7996
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2009,Cote de Nuits,95.99,97,6585.22,7828
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2008,Cote de Nuits,95.96,96,6586.72,6658
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2007,Cote de Nuits,95.93,95,6588.22,7013
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2006,Cote de Nuits,95.9,96,6589.72,6408
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2005,Cote de Nuits,95.87,97,6591.22,10033
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2004,Cote de Nuits,95.84,95,6592.72,7146
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2003,Cote de Nuits,95.81,96,6594.23,8129
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2002,Cote de Nuits,95.78,96,6595.73,7753
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2001,Cote de Nuits,95.75,94,6597.2,6798
+"Domaine de la Romanee-Conti, La Tache Grand Cru",2000,Cote de Nuits,95.71,95,6598.65,7852
+"E. Guigal, Cote Rotie, La Landonne",2023,Cote Rotie,95.4,-,441.19,-
+"E. Guigal, Cote Rotie, La Landonne",2022,Cote Rotie,95.4,-,441.19,-
+"E. Guigal, Cote Rotie, La Landonne",2021,Cote Rotie,95.34,94,436.36,-
+"E. Guigal, Cote Rotie, La Landonne",2020,Cote Rotie,95.31,96,433.94,-
+"E. Guigal, Cote Rotie, La Landonne",2019,Cote Rotie,95.28,97,431.53,406
+"E. Guigal, Cote Rotie, La Landonne",2018,Cote Rotie,95.25,97,429.11,432
+"E. Guigal, Cote Rotie, La Landonne",2017,Cote Rotie,95.22,97,426.7,399
+"E. Guigal, Cote Rotie, La Landonne",2016,Cote Rotie,95.19,97,424.28,384
+"E. Guigal, Cote Rotie, La Landonne",2015,Cote Rotie,95.16,98,421.87,455
+"E. Guigal, Cote Rotie, La Landonne",2014,Cote Rotie,95.13,95,419.45,323
+"E. Guigal, Cote Rotie, La Landonne",2013,Cote Rotie,95.1,96,417.04,292
+"E. Guigal, Cote Rotie, La Landonne",2012,Cote Rotie,95.07,96,414.62,395
+"E. Guigal, Cote Rotie, La Landonne",2011,Cote Rotie,95.04,95,412.2,321
+"E. Guigal, Cote Rotie, La Landonne",2010,Cote Rotie,95.01,97,409.79,540
+"E. Guigal, Cote Rotie, La Landonne",2009,Cote Rotie,94.98,97,407.37,546
+"E. Guigal, Cote Rotie, La Landonne",2008,Cote Rotie,94.95,93,404.96,296
+"E. Guigal, Cote Rotie, La Landonne",2007,Cote Rotie,94.92,96,402.54,383
+"E. Guigal, Cote Rotie, La Landonne",2006,Cote Rotie,94.89,95,400.13,389
+"E. Guigal, Cote Rotie, La Landonne",2005,Cote Rotie,94.86,97,397.71,713
+"E. Guigal, Cote Rotie, La Landonne",2004,Cote Rotie,94.83,94,395.3,327
+"E. Guigal, Cote Rotie, La Landonne",2003,Cote Rotie,94.8,97,392.88,688
+"E. Guigal, Cote Rotie, La Landonne",2002,Cote Rotie,94.77,93,390.47,325
+"E. Guigal, Cote Rotie, La Landonne",2001,Cote Rotie,94.74,94,388.05,392
+"E. Guigal, Cote Rotie, La Landonne",2000,Cote Rotie,94.71,95,385.64,426
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2023,Cote de Nuits,96.71,-,28648.13,-
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2022,Cote de Nuits,96.71,-,28648.13,-
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2021,Cote de Nuits,96.65,96,28650.39,-
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2020,Cote de Nuits,96.62,98,28651.52,27225
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2019,Cote de Nuits,96.59,98,28652.66,28631
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2018,Cote de Nuits,96.56,98,28653.79,28743
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2017,Cote de Nuits,96.53,97,28654.92,23669
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2016,Cote de Nuits,96.5,98,28656.05,27310
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2015,Cote de Nuits,96.47,99,28657.18,37401
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2014,Cote de Nuits,96.44,97,28658.32,23005
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2013,Cote de Nuits,96.41,97,28659.45,26482
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2012,Cote de Nuits,96.38,98,28660.58,29939
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2011,Cote de Nuits,96.35,96,28661.71,27176
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2010,Cote de Nuits,96.32,97,28662.84,34585
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2009,Cote de Nuits,96.29,96,28663.97,28107
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2008,Cote de Nuits,96.26,97,28665.11,27393
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2007,Cote de Nuits,96.23,95,28666.24,29386
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2006,Cote de Nuits,96.2,97,28667.37,28200
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2005,Cote de Nuits,96.17,98,28668.5,33289
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2004,Cote de Nuits,96.14,96,28669.63,25786
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2003,Cote de Nuits,96.11,96,28670.77,29061
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2002,Cote de Nuits,96.08,96,28671.9,26702
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2001,Cote de Nuits,96.05,96,28673.03,30188
+"Domaine de la Romanee-Conti, Romanee-Conti Grand Cru",2000,Cote de Nuits,96.02,95,28674.16,24466
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2023,Chateauneuf-du-Pape,95.76,-,353.53,-
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2022,Chateauneuf-du-Pape,95.76,-,353.53,-
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2021,Chateauneuf-du-Pape,95.7,95,348.7,309
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2020,Chateauneuf-du-Pape,95.67,96,346.29,355
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2019,Chateauneuf-du-Pape,95.64,97,343.87,381
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2018,Chateauneuf-du-Pape,95.61,97,341.46,354
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2017,Chateauneuf-du-Pape,95.58,97,339.04,375
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2016,Chateauneuf-du-Pape,95.55,97,336.63,426
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2015,Chateauneuf-du-Pape,95.52,96,334.21,378
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2014,Chateauneuf-du-Pape,95.49,95,331.8,323
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2013,Chateauneuf-du-Pape,95.46,95,329.38,328
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2012,Chateauneuf-du-Pape,95.43,96,326.97,378
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2011,Chateauneuf-du-Pape,95.4,95,324.55,442
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2010,Chateauneuf-du-Pape,95.37,97,322.14,449
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2009,Chateauneuf-du-Pape,95.34,96,319.72,470
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2008,Chateauneuf-du-Pape,95.34,96,319.72,470
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2007,Chateauneuf-du-Pape,95.28,97,314.89,550
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2006,Chateauneuf-du-Pape,95.28,97,314.89,550
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2005,Chateauneuf-du-Pape,95.22,96,310.06,491
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2004,Chateauneuf-du-Pape,95.19,95,307.64,385
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2003,Chateauneuf-du-Pape,95.16,94,305.23,331
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2002,Chateauneuf-du-Pape,95.16,94,305.23,331
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2001,Chateauneuf-du-Pape,95.1,95,300.4,428
+"Chateau de Beaucastel Hommage a Jacques Perrin, Chateauneuf-du-Pape",2000,Chateauneuf-du-Pape,95.07,95,297.98,464
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2023,Cote Rotie,93.44,-,85.43,-
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2022,Cote Rotie,93.44,-,85.43,-
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2021,Cote Rotie,93.44,-,85.43,-
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2020,Cote Rotie,93.35,92,78.14,107
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2019,Cote Rotie,93.32,95,75.71,124
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2018,Cote Rotie,93.29,94,73.28,121
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2017,Cote Rotie,93.26,93,70.85,133
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2016,Cote Rotie,93.23,93,68.42,118
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2015,Cote Rotie,93.2,94,65.99,117
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2014,Cote Rotie,93.17,93,63.56,111
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2013,Cote Rotie,93.14,92,61.13,109
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2012,Cote Rotie,93.11,93,58.69,116
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2011,Cote Rotie,93.08,93,56.26,123
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2010,Cote Rotie,93.05,94,53.83,171
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2009,Cote Rotie,93.02,94,51.4,167
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2008,Cote Rotie,92.99,92,48.97,156
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2007,Cote Rotie,92.96,94,46.54,182
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2006,Cote Rotie,92.93,93,44.11,149
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2005,Cote Rotie,92.9,93,41.68,149
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2004,Cote Rotie,92.87,92,39.25,154
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2003,Cote Rotie,92.83,93,36.82,157
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2002,Cote Rotie,92.8,91,34.39,251
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2001,Cote Rotie,92.77,91,31.96,215
+"E. Guigal, Cote Rotie, Chateau d'Ampuis",2000,Cote Rotie,92.74,91,29.53,172
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2023,Cote de Nuits,93.45,-,4017.16,-
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2022,Cote de Nuits,93.45,-,4017.16,-
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2021,Cote de Nuits,93.39,94,4014.86,-
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2020,Cote de Nuits,93.36,94,4013.72,3523
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2019,Cote de Nuits,93.33,94,4012.57,3813
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2018,Cote de Nuits,93.3,94,4011.42,3376
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2017,Cote de Nuits,93.27,94,4010.27,3352
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2016,Cote de Nuits,93.24,93,4009.12,27594
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2015,Cote de Nuits,93.21,93,4007.97,4125
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2014,Cote de Nuits,93.18,93,4006.71,3684
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2013,Cote de Nuits,93.15,93,4004.54,3536
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2012,Cote de Nuits,93.12,94,4002.37,3675
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2011,Cote de Nuits,93.09,93,4000.2,3702
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2010,Cote de Nuits,93.06,93,3998.03,4004
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2009,Cote de Nuits,93.03,93,3995.68,4045
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2008,Cote de Nuits,93.0,93,3993.15,3621
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2007,Cote de Nuits,92.97,92,3990.62,3819
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2006,Cote de Nuits,92.94,93,3988.09,3608
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2005,Cote de Nuits,92.91,94,3985.56,4269
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2004,Cote de Nuits,92.88,93,3983.03,3587
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2003,Cote de Nuits,92.84,92,3980.5,3803
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2002,Cote de Nuits,92.81,92,3977.96,4275
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2001,Cote de Nuits,92.78,92,3975.43,3979
+"Domaine de la Romanee-Conti, Echezeaux Grand Cru",2000,Cote de Nuits,92.75,92,3972.9,4116
+"Carruades de Lafite, Pauillac",2023,Pauillac,91.2,-,383.41,-
+"Carruades de Lafite, Pauillac",2022,Pauillac,91.17,93,381.0,279
+"Carruades de Lafite, Pauillac",2021,Pauillac,91.14,91,378.58,309
+"Carruades de Lafite, Pauillac",2020,Pauillac,91.11,93,376.17,332
+"Carruades de Lafite, Pauillac",2019,Pauillac,91.08,92,373.75,358
+"Carruades de Lafite, Pauillac",2018,Pauillac,91.05,93,371.34,391
+"Carruades de Lafite, Pauillac",2017,Pauillac,91.02,90,368.92,360
+"Carruades de Lafite, Pauillac",2016,Pauillac,90.99,92,366.51,401
+"Carruades de Lafite, Pauillac",2015,Pauillac,90.96,91,364.09,415
+"Carruades de Lafite, Pauillac",2014,Pauillac,90.93,90,361.68,401
+"Carruades de Lafite, Pauillac",2013,Pauillac,90.9,88,359.26,412
+"Carruades de Lafite, Pauillac",2012,Pauillac,90.87,90,356.85,407
+"Carruades de Lafite, Pauillac",2011,Pauillac,90.84,89,354.43,394
+"Carruades de Lafite, Pauillac",2010,Pauillac,90.81,91,352.02,426
+"Carruades de Lafite, Pauillac",2009,Pauillac,90.78,91,349.6,384
+"Carruades de Lafite, Pauillac",2008,Pauillac,90.75,90,347.18,395
+"Carruades de Lafite, Pauillac",2007,Pauillac,90.72,88,344.77,419
+"Carruades de Lafite, Pauillac",2006,Pauillac,90.69,90,342.36,402
+"Carruades de Lafite, Pauillac",2005,Pauillac,90.66,90,339.94,392
+"Carruades de Lafite, Pauillac",2004,Pauillac,90.63,88,337.52,368
+"Carruades de Lafite, Pauillac",2003,Pauillac,90.6,90,335.11,370
+"Carruades de Lafite, Pauillac",2002,Pauillac,90.57,88,332.69,357
+"Carruades de Lafite, Pauillac",2001,Pauillac,90.54,88,330.28,342
+"Carruades de Lafite, Pauillac",2000,Pauillac,90.51,89,327.86,384
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2023,Pauillac,93.26,-,307.47,-
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2022,Pauillac,93.23,95,305.05,140
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2021,Pauillac,93.2,94,302.62,123
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2020,Pauillac,93.17,95,300.19,155
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2019,Pauillac,93.14,96,297.76,167
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2018,Pauillac,93.11,95,295.34,156
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2017,Pauillac,93.08,93,292.91,233
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2016,Pauillac,93.05,95,290.48,181
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2015,Pauillac,93.02,93,288.05,176
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2014,Pauillac,92.99,93,285.63,148
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2013,Pauillac,92.96,89,283.2,127
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2012,Pauillac,92.93,91,280.77,143
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2011,Pauillac,92.9,91,278.34,140
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2010,Pauillac,92.87,94,275.92,250
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2009,Pauillac,92.84,94,273.49,236
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2008,Pauillac,92.81,91,271.06,157
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2007,Pauillac,92.78,90,268.63,137
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2006,Pauillac,92.75,91,266.21,157
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2005,Pauillac,92.72,93,263.78,257
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2004,Pauillac,92.69,91,261.35,156
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2003,Pauillac,92.66,93,258.92,180
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2002,Pauillac,92.63,90,256.5,151
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2001,Pauillac,92.6,90,254.07,180
+"Chateau Lynch-Bages 5eme Cru Classe, Pauillac",2000,Pauillac,92.57,93,251.64,375
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2023,Cote de Nuits,95.26,-,5052.04,-
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2022,Cote de Nuits,95.26,-,5052.04,-
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2021,Cote de Nuits,95.2,97,5045.87,-
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2020,Cote de Nuits,95.17,96,5042.78,5129
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2019,Cote de Nuits,95.14,97,5039.69,5970
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2018,Cote de Nuits,95.11,97,5036.6,5210
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2017,Cote de Nuits,95.07,96,5033.52,4685
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2016,Cote de Nuits,95.04,96,5030.43,5405
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2015,Cote de Nuits,95.01,97,5027.34,5922
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2014,Cote de Nuits,94.98,95,5024.25,4700
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2013,Cote de Nuits,94.95,95,5021.17,4820
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2012,Cote de Nuits,94.92,96,5018.08,5611
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2011,Cote de Nuits,94.89,95,5014.99,4734
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2010,Cote de Nuits,94.86,95,5011.91,6461
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2009,Cote de Nuits,94.83,96,5008.82,5870
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2008,Cote de Nuits,94.8,95,5005.73,5715
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2007,Cote de Nuits,94.77,93,5002.64,4836
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2006,Cote de Nuits,94.74,94,4999.56,4814
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2005,Cote de Nuits,94.71,95,4996.47,5903
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2004,Cote de Nuits,94.68,93,4993.38,4614
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2003,Cote de Nuits,94.65,94,4990.3,5165
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2002,Cote de Nuits,94.62,94,4987.21,5627
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2001,Cote de Nuits,94.59,93,4984.12,4878
+"Domaine de la Romanee-Conti, Richebourg Grand Cru",2000,Cote de Nuits,94.56,92,4981.03,5380
+"Chateau Rayas, Chateauneuf-du-Pape",2023,Chateauneuf-du-Pape,94.89,-,1521.39,-
+"Chateau Rayas, Chateauneuf-du-Pape",2022,Chateauneuf-du-Pape,94.89,-,1521.39,-
+"Chateau Rayas, Chateauneuf-du-Pape",2021,Chateauneuf-du-Pape,94.89,-,1521.39,-
+"Chateau Rayas, Chateauneuf-du-Pape",2020,Chateauneuf-du-Pape,94.8,95,1513.74,-
+"Chateau Rayas, Chateauneuf-du-Pape",2019,Chateauneuf-du-Pape,94.8,95,1513.74,-
+"Chateau Rayas, Chateauneuf-du-Pape",2018,Chateauneuf-du-Pape,94.8,95,1513.74,-
+"Chateau Rayas, Chateauneuf-du-Pape",2017,Chateauneuf-du-Pape,94.71,98,1506.1,113
+"Chateau Rayas, Chateauneuf-du-Pape",2016,Chateauneuf-du-Pape,94.68,97,1503.55,133
+"Chateau Rayas, Chateauneuf-du-Pape",2015,Chateauneuf-du-Pape,94.65,97,1501.0,50
+"Chateau Rayas, Chateauneuf-du-Pape",2014,Chateauneuf-du-Pape,94.62,94,1498.45,194
+"Chateau Rayas, Chateauneuf-du-Pape",2013,Chateauneuf-du-Pape,94.59,95,1495.91,1224
+"Chateau Rayas, Chateauneuf-du-Pape",2012,Chateauneuf-du-Pape,94.56,95,1493.36,1396
+"Chateau Rayas, Chateauneuf-du-Pape",2011,Chateauneuf-du-Pape,94.53,94,1490.81,1451
+"Chateau Rayas, Chateauneuf-du-Pape",2010,Chateauneuf-du-Pape,94.5,96,1488.26,1686
+"Chateau Rayas, Chateauneuf-du-Pape",2009,Chateauneuf-du-Pape,94.47,95,1485.71,1743
+"Chateau Rayas, Chateauneuf-du-Pape",2008,Chateauneuf-du-Pape,94.44,93,1483.16,1695
+"Chateau Rayas, Chateauneuf-du-Pape",2007,Chateauneuf-du-Pape,94.41,95,1480.62,1599
+"Chateau Rayas, Chateauneuf-du-Pape",2006,Chateauneuf-du-Pape,94.38,94,1478.07,1608
+"Chateau Rayas, Chateauneuf-du-Pape",2005,Chateauneuf-du-Pape,94.35,96,1475.52,1921
+"Chateau Rayas, Chateauneuf-du-Pape",2004,Chateauneuf-du-Pape,94.32,93,1472.97,1544
+"Chateau Rayas, Chateauneuf-du-Pape",2003,Chateauneuf-du-Pape,94.29,93,1470.42,1708
+"Chateau Rayas, Chateauneuf-du-Pape",2002,Chateauneuf-du-Pape,94.26,89,1467.87,1604
+"Chateau Rayas, Chateauneuf-du-Pape",2001,Chateauneuf-du-Pape,94.23,93,1465.33,1529
+"Chateau Rayas, Chateauneuf-du-Pape",2000,Chateauneuf-du-Pape,94.2,92,1462.78,1712
+"Chateau La Fleur-Petrus, Pomerol",2023,Pomerol,93.32,-,470.1,-
+"Chateau La Fleur-Petrus, Pomerol",2022,Pomerol,93.29,96,467.68,252
+"Chateau La Fleur-Petrus, Pomerol",2021,Pomerol,93.26,93,465.27,214
+"Chateau La Fleur-Petrus, Pomerol",2020,Pomerol,93.23,95,462.85,253
+"Chateau La Fleur-Petrus, Pomerol",2019,Pomerol,93.2,95,460.44,239
+"Chateau La Fleur-Petrus, Pomerol",2018,Pomerol,93.17,95,458.02,261
+"Chateau La Fleur-Petrus, Pomerol",2017,Pomerol,93.14,94,455.61,232
+"Chateau La Fleur-Petrus, Pomerol",2016,Pomerol,93.11,95,453.19,271
+"Chateau La Fleur-Petrus, Pomerol",2015,Pomerol,93.08,94,450.78,261
+"Chateau La Fleur-Petrus, Pomerol",2014,Pomerol,93.05,93,448.36,225
+"Chateau La Fleur-Petrus, Pomerol",2013,Pomerol,93.02,91,445.95,192
+"Chateau La Fleur-Petrus, Pomerol",2012,Pomerol,92.99,93,443.53,218
+"Chateau La Fleur-Petrus, Pomerol",2011,Pomerol,92.96,92,441.12,203
+"Chateau La Fleur-Petrus, Pomerol",2010,Pomerol,92.93,95,438.7,330
+"Chateau La Fleur-Petrus, Pomerol",2009,Pomerol,92.9,94,436.29,336
+"Chateau La Fleur-Petrus, Pomerol",2008,Pomerol,92.87,92,433.87,255
+"Chateau La Fleur-Petrus, Pomerol",2007,Pomerol,92.84,90,431.46,225
+"Chateau La Fleur-Petrus, Pomerol",2006,Pomerol,92.81,92,429.04,248
+"Chateau La Fleur-Petrus, Pomerol",2005,Pomerol,92.78,93,426.62,322
+"Chateau La Fleur-Petrus, Pomerol",2004,Pomerol,92.75,90,424.21,248
+"Chateau La Fleur-Petrus, Pomerol",2003,Pomerol,92.72,89,421.79,220
+"Chateau La Fleur-Petrus, Pomerol",2002,Pomerol,92.69,90,419.38,215
+"Chateau La Fleur-Petrus, Pomerol",2001,Pomerol,92.66,90,416.96,250
+"Chateau La Fleur-Petrus, Pomerol",2000,Pomerol,92.63,92,414.55,371
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2023,Pauillac,93.59,-,387.85,-
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2022,Pauillac,93.56,97,385.42,228
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2021,Pauillac,93.53,94,383.0,185
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2020,Pauillac,93.5,96,380.57,224
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2019,Pauillac,93.47,97,378.14,280
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2018,Pauillac,93.44,96,375.71,267
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2017,Pauillac,93.41,95,373.29,173
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2016,Pauillac,93.38,97,370.86,285
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2015,Pauillac,93.35,95,368.43,232
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2014,Pauillac,93.32,93,366.0,170
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2013,Pauillac,93.29,90,363.58,139
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2012,Pauillac,93.26,92,361.15,170
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2011,Pauillac,93.23,92,358.72,171
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2010,Pauillac,93.2,94,356.29,248
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2009,Pauillac,93.17,94,353.87,264
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2008,Pauillac,93.14,91,351.44,198
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2007,Pauillac,93.11,90,349.01,178
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2006,Pauillac,93.08,92,346.58,198
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2005,Pauillac,93.05,93,344.16,239
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2004,Pauillac,93.02,92,341.73,185
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2003,Pauillac,92.99,92,339.3,224
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2002,Pauillac,92.96,91,336.87,178
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2001,Pauillac,92.93,92,334.45,231
+"Chateau Pichon Longueville Comtesse de Lalande 2eme Cru Classe, Pauillac",2000,Pauillac,92.9,93,332.02,363
+"Chateau La Conseillante, Pomerol",2023,Pomerol,93.79,-,337.36,-
+"Chateau La Conseillante, Pomerol",2022,Pomerol,93.76,97,334.93,295
+"Chateau La Conseillante, Pomerol",2021,Pomerol,93.73,95,332.5,215
+"Chateau La Conseillante, Pomerol",2020,Pomerol,93.7,97,330.08,262
+"Chateau La Conseillante, Pomerol",2019,Pomerol,93.67,97,327.65,242
+"Chateau La Conseillante, Pomerol",2018,Pomerol,93.64,95,325.22,278
+"Chateau La Conseillante, Pomerol",2017,Pomerol,93.61,94,322.79,183
+"Chateau La Conseillante, Pomerol",2016,Pomerol,93.58,96,320.37,272
+"Chateau La Conseillante, Pomerol",2015,Pomerol,93.55,95,317.94,239
+"Chateau La Conseillante, Pomerol",2014,Pomerol,93.52,93,315.51,159
+"Chateau La Conseillante, Pomerol",2013,Pomerol,93.49,91,313.08,117
+"Chateau La Conseillante, Pomerol",2012,Pomerol,93.46,93,310.66,175
+"Chateau La Conseillante, Pomerol",2011,Pomerol,93.42,92,308.23,160
+"Chateau La Conseillante, Pomerol",2010,Pomerol,93.39,95,305.8,293
+"Chateau La Conseillante, Pomerol",2009,Pomerol,93.36,95,303.37,289
+"Chateau La Conseillante, Pomerol",2008,Pomerol,93.33,92,300.95,188
+"Chateau La Conseillante, Pomerol",2007,Pomerol,93.3,90,298.52,160
+"Chateau La Conseillante, Pomerol",2006,Pomerol,93.27,93,296.09,180
+"Chateau La Conseillante, Pomerol",2005,Pomerol,93.24,95,293.66,362
+"Chateau La Conseillante, Pomerol",2004,Pomerol,93.21,91,291.24,146
+"Chateau La Conseillante, Pomerol",2003,Pomerol,93.18,90,288.81,178
+"Chateau La Conseillante, Pomerol",2002,Pomerol,93.15,89,286.38,128
+"Chateau La Conseillante, Pomerol",2001,Pomerol,93.12,93,283.95,256
+"Chateau La Conseillante, Pomerol",2000,Pomerol,93.09,93,281.53,371
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2023,Saint-Julien,93.73,-,202.41,-
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2022,Saint-Julien,93.7,95,199.98,123
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2021,Saint-Julien,93.67,93,197.56,81
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2020,Saint-Julien,93.64,95,195.13,106
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2019,Saint-Julien,93.61,95,192.7,122
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2018,Saint-Julien,93.58,95,190.27,122
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2017,Saint-Julien,93.55,94,187.85,89
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2016,Saint-Julien,93.52,95,185.42,144
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2015,Saint-Julien,93.49,94,182.99,118
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2014,Saint-Julien,93.46,93,180.56,96
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2013,Saint-Julien,93.43,90,178.14,80
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2012,Saint-Julien,93.4,91,175.71,101
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2011,Saint-Julien,93.37,92,173.28,89
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2010,Saint-Julien,93.34,94,170.85,154
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2009,Saint-Julien,93.31,94,168.43,149
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2008,Saint-Julien,93.28,92,166.0,102
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2007,Saint-Julien,93.25,92,163.57,84
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2006,Saint-Julien,93.22,91,161.14,103
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2005,Saint-Julien,93.19,94,158.72,167
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2004,Saint-Julien,93.16,92,156.29,113
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2003,Saint-Julien,93.13,94,153.86,157
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2002,Saint-Julien,93.1,92,151.43,108
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2001,Saint-Julien,93.07,92,149.01,130
+"Chateau Leoville Barton 2eme Cru Classe, Saint-Julien",2000,Saint-Julien,93.04,94,146.58,185
+"M. Chapoutier, Ermitage, Le Pavillon",2023,Hermitage,94.78,-,391.37,-
+"M. Chapoutier, Ermitage, Le Pavillon",2022,Hermitage,94.75,-,388.96,255
+"M. Chapoutier, Ermitage, Le Pavillon",2021,Hermitage,94.72,94,386.54,396
+"M. Chapoutier, Ermitage, Le Pavillon",2020,Hermitage,94.69,99,384.13,303
+"M. Chapoutier, Ermitage, Le Pavillon",2019,Hermitage,94.66,95,381.71,306
+"M. Chapoutier, Ermitage, Le Pavillon",2018,Hermitage,94.63,95,379.3,370
+"M. Chapoutier, Ermitage, Le Pavillon",2017,Hermitage,94.6,96,376.88,421
+"M. Chapoutier, Ermitage, Le Pavillon",2016,Hermitage,94.57,96,374.47,428
+"M. Chapoutier, Ermitage, Le Pavillon",2015,Hermitage,94.54,96,372.05,317
+"M. Chapoutier, Ermitage, Le Pavillon",2014,Hermitage,94.51,95,369.64,306
+"M. Chapoutier, Ermitage, Le Pavillon",2013,Hermitage,94.48,94,367.22,355
+"M. Chapoutier, Ermitage, Le Pavillon",2012,Hermitage,94.45,95,364.81,300
+"M. Chapoutier, Ermitage, Le Pavillon",2011,Hermitage,94.42,96,362.39,380
+"M. Chapoutier, Ermitage, Le Pavillon",2010,Hermitage,94.38,97,359.97,454
+"M. Chapoutier, Ermitage, Le Pavillon",2009,Hermitage,94.35,97,357.56,427
+"M. Chapoutier, Ermitage, Le Pavillon",2008,Hermitage,94.32,93,355.14,178
+"M. Chapoutier, Ermitage, Le Pavillon",2007,Hermitage,94.29,93,352.73,230
+"M. Chapoutier, Ermitage, Le Pavillon",2006,Hermitage,94.26,95,350.31,268
+"M. Chapoutier, Ermitage, Le Pavillon",2005,Hermitage,94.23,96,347.9,349
+"M. Chapoutier, Ermitage, Le Pavillon",2004,Hermitage,94.2,93,345.48,231
+"M. Chapoutier, Ermitage, Le Pavillon",2003,Hermitage,94.17,94,343.07,365
+"M. Chapoutier, Ermitage, Le Pavillon",2002,Hermitage,94.14,90,340.65,157
+"M. Chapoutier, Ermitage, Le Pavillon",2001,Hermitage,94.11,93,338.24,321
+"M. Chapoutier, Ermitage, Le Pavillon",2000,Hermitage,94.08,94,335.82,379
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2023,Pessac-Leognan,93.77,-,308.74,-
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2022,Pessac-Leognan,93.74,96,306.31,149
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2021,Pessac-Leognan,93.71,94,303.88,124
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2020,Pessac-Leognan,93.68,96,301.46,169
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2019,Pessac-Leognan,93.65,95,299.03,148
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2018,Pessac-Leognan,93.62,95,296.6,148
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2017,Pessac-Leognan,93.59,94,294.17,111
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2016,Pessac-Leognan,93.56,96,291.75,166
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2015,Pessac-Leognan,93.53,95,289.32,180
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2014,Pessac-Leognan,93.5,93,286.89,107
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2013,Pessac-Leognan,93.47,90,284.46,86
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2012,Pessac-Leognan,93.44,93,282.04,108
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2011,Pessac-Leognan,93.41,92,279.61,109
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2010,Pessac-Leognan,93.38,95,277.18,182
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2009,Pessac-Leognan,93.35,95,274.75,303
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2008,Pessac-Leognan,93.32,91,272.33,116
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2007,Pessac-Leognan,93.29,90,269.9,124
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2006,Pessac-Leognan,93.26,91,267.47,107
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2005,Pessac-Leognan,93.23,94,265.04,196
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2004,Pessac-Leognan,93.2,91,262.62,114
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2003,Pessac-Leognan,93.17,91,260.19,121
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2002,Pessac-Leognan,93.14,90,257.76,112
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2001,Pessac-Leognan,93.11,91,255.33,111
+"Chateau Smith Haut Lafitte, Rouge Cru Classe, Pessac-Leognan",2000,Pessac-Leognan,93.08,91,252.91,205
+"Chateau Lafleur, Pomerol",2023,Pomerol,95.49,-,768.5,-
+"Chateau Lafleur, Pomerol",2022,Pomerol,95.46,98,766.08,1462
+"Chateau Lafleur, Pomerol",2021,Pomerol,95.43,96,763.67,1020
+"Chateau Lafleur, Pomerol",2020,Pomerol,95.4,98,761.26,1438
+"Chateau Lafleur, Pomerol",2019,Pomerol,95.37,99,758.84,1846
+"Chateau Lafleur, Pomerol",2018,Pomerol,95.34,98,756.43,1661
+"Chateau Lafleur, Pomerol",2017,Pomerol,95.31,97,754.01,1041
+"Chateau Lafleur, Pomerol",2016,Pomerol,95.28,98,751.6,1465
+"Chateau Lafleur, Pomerol",2015,Pomerol,95.25,97,749.19,1490
+"Chateau Lafleur, Pomerol",2014,Pomerol,95.22,95,746.77,788
+"Chateau Lafleur, Pomerol",2013,Pomerol,95.19,92,744.36,510
+"Chateau Lafleur, Pomerol",2012,Pomerol,95.16,95,741.95,637
+"Chateau Lafleur, Pomerol",2011,Pomerol,95.13,94,739.53,585
+"Chateau Lafleur, Pomerol",2010,Pomerol,95.1,97,737.12,1733
+"Chateau Lafleur, Pomerol",2009,Pomerol,95.07,97,734.7,1661
+"Chateau Lafleur, Pomerol",2008,Pomerol,95.04,94,732.29,763
+"Chateau Lafleur, Pomerol",2007,Pomerol,95.01,93,729.88,603
+"Chateau Lafleur, Pomerol",2006,Pomerol,94.98,93,727.46,798
+"Chateau Lafleur, Pomerol",2005,Pomerol,94.95,97,725.05,2392
+"Chateau Lafleur, Pomerol",2004,Pomerol,94.92,93,722.64,600
+"Chateau Lafleur, Pomerol",2003,Pomerol,94.89,93,720.22,715
+"Chateau Lafleur, Pomerol",2002,Pomerol,94.86,91,717.81,539
+"Chateau Lafleur, Pomerol",2001,Pomerol,94.83,93,715.39,715
+"Chateau Lafleur, Pomerol",2000,Pomerol,94.8,97,712.98,2610
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2023,Saint-Estephe,94.25,-,461.53,-
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2022,Saint-Estephe,94.22,97,459.12,244
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2021,Saint-Estephe,94.19,95,456.7,196
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2020,Saint-Estephe,94.16,96,454.29,231
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2019,Saint-Estephe,94.13,97,451.87,213
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2018,Saint-Estephe,94.1,96,449.45,230
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2017,Saint-Estephe,94.07,94,447.04,351
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2016,Saint-Estephe,94.04,97,444.63,260
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2015,Saint-Estephe,94.01,95,442.21,213
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2014,Saint-Estephe,93.98,94,439.8,170
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2013,Saint-Estephe,93.95,91,437.38,148
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2012,Saint-Estephe,93.92,92,434.96,181
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2011,Saint-Estephe,93.89,92,432.55,169
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2010,Saint-Estephe,93.86,96,430.13,331
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2009,Saint-Estephe,93.83,95,427.72,397
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2008,Saint-Estephe,93.8,93,425.3,182
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2007,Saint-Estephe,93.77,91,422.89,160
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2006,Saint-Estephe,93.74,93,420.47,178
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2005,Saint-Estephe,93.71,95,418.06,273
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2004,Saint-Estephe,93.68,92,415.64,165
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2003,Saint-Estephe,93.65,94,413.23,250
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2002,Saint-Estephe,93.62,92,410.81,170
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2001,Saint-Estephe,93.59,92,408.4,205
+"Cos d'Estournel 2eme Cru Classe, Saint-Estephe",2000,Saint-Estephe,93.56,93,405.98,287
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2023,Cote de Nuits,94.98,-,4330.54,-
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2022,Cote de Nuits,94.98,-,4330.54,-
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2021,Cote de Nuits,94.92,95,4324.11,-
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2020,Cote de Nuits,94.89,95,4320.89,3878
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2019,Cote de Nuits,94.86,96,4317.68,4509
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2018,Cote de Nuits,94.83,95,4314.46,3948
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2017,Cote de Nuits,94.8,96,4311.25,3851
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2016,Cote de Nuits,94.77,96,4308.03,4321
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2015,Cote de Nuits,94.74,96,4304.82,4483
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2014,Cote de Nuits,94.71,95,4301.6,3892
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2013,Cote de Nuits,94.67,95,4298.39,3905
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2012,Cote de Nuits,94.64,95,4295.17,4414
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2011,Cote de Nuits,94.61,95,4291.96,3921
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2010,Cote de Nuits,94.58,96,4288.74,4507
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2009,Cote de Nuits,94.55,95,4285.53,4619
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2008,Cote de Nuits,94.52,95,4282.31,4402
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2007,Cote de Nuits,94.49,94,4279.09,4060
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2006,Cote de Nuits,94.46,94,4275.88,4226
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2005,Cote de Nuits,94.43,96,4272.66,5221
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2004,Cote de Nuits,94.4,93,4269.45,4060
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2003,Cote de Nuits,94.37,94,4266.23,4170
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2002,Cote de Nuits,94.34,94,4263.02,4491
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2001,Cote de Nuits,94.31,94,4259.8,4178
+"Domaine de la Romanee-Conti, Romanee-Saint-Vivant Grand Cru, Marey-Monge",2000,Cote de Nuits,94.28,91,4256.59,4347
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2023,Cote de Beaune,93.92,-,496.81,-
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2022,Cote de Beaune,93.92,-,496.81,-
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2021,Cote de Beaune,93.86,94,491.98,-
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2020,Cote de Beaune,93.83,96,489.57,669
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2019,Cote de Beaune,93.8,95,487.15,520
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2018,Cote de Beaune,93.77,94,484.74,467
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2017,Cote de Beaune,93.74,94,482.32,524
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2016,Cote de Beaune,93.71,94,479.91,421
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2015,Cote de Beaune,93.67,95,477.49,451
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2014,Cote de Beaune,93.64,94,475.08,536
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2013,Cote de Beaune,93.61,94,472.66,408
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2012,Cote de Beaune,93.58,94,470.24,451
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2011,Cote de Beaune,93.55,93,467.83,392
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2010,Cote de Beaune,93.52,94,465.41,487
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2009,Cote de Beaune,93.49,93,463.0,477
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2008,Cote de Beaune,93.46,94,460.58,483
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2007,Cote de Beaune,93.43,93,458.17,483
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2006,Cote de Beaune,93.4,93,455.75,437
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2005,Cote de Beaune,93.37,95,453.34,469
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2004,Cote de Beaune,93.34,93,450.92,408
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2003,Cote de Beaune,93.31,92,448.51,461
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2002,Cote de Beaune,93.28,92,446.09,552
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2001,Cote de Beaune,93.25,91,443.68,415
+"Domaine Bonneau du Martray, Corton-Charlemagne Grand Cru",2000,Cote de Beaune,93.22,92,441.26,464
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2023,Saint-Julien,94.97,-,685.93,-
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2022,Saint-Julien,94.94,98,683.51,373
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2021,Saint-Julien,94.91,95,681.1,225
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2020,Saint-Julien,94.88,97,678.68,305
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2019,Saint-Julien,94.85,97,676.27,255
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2018,Saint-Julien,94.82,97,673.85,306
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2017,Saint-Julien,94.79,95,671.44,241
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2016,Saint-Julien,94.76,97,669.02,343
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2015,Saint-Julien,94.73,96,666.61,292
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2014,Saint-Julien,94.7,95,664.19,212
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2013,Saint-Julien,94.67,92,661.78,177
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2012,Saint-Julien,94.64,94,659.36,225
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2011,Saint-Julien,94.61,93,656.95,197
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2010,Saint-Julien,94.58,96,654.53,332
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2009,Saint-Julien,94.55,96,652.11,352
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2008,Saint-Julien,94.52,94,649.7,232
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2007,Saint-Julien,94.49,93,647.29,207
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2006,Saint-Julien,94.46,93,644.87,232
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2005,Saint-Julien,94.43,96,642.45,408
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2004,Saint-Julien,94.4,93,640.04,216
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2003,Saint-Julien,94.37,94,637.62,258
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2002,Saint-Julien,94.34,92,635.21,221
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2001,Saint-Julien,94.31,93,632.79,255
+"Chateau Leoville Las Cases 2eme Cru Classe, Saint-Julien",2000,Saint-Julien,94.28,95,630.38,392
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2023,Saint-Emilion,95.41,-,858.62,-
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2022,Saint-Emilion,95.38,98,856.2,732
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2021,Saint-Emilion,95.35,96,853.79,547
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2020,Saint-Emilion,95.32,97,851.37,681
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2019,Saint-Emilion,95.29,98,848.95,827
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2018,Saint-Emilion,95.26,97,846.54,878
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2017,Saint-Emilion,95.23,95,844.12,598
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2016,Saint-Emilion,95.19,97,841.71,932
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2015,Saint-Emilion,95.16,97,839.29,943
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2014,Saint-Emilion,95.13,95,836.88,574
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2013,Saint-Emilion,95.1,92,834.46,517
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2012,Saint-Emilion,95.07,94,832.05,585
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2011,Saint-Emilion,95.04,94,829.63,616
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2010,Saint-Emilion,95.01,97,827.22,1220
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2009,Saint-Emilion,94.98,97,824.8,1183
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2008,Saint-Emilion,94.95,94,822.39,582
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2007,Saint-Emilion,94.92,92,819.97,549
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2006,Saint-Emilion,94.89,94,817.56,668
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2005,Saint-Emilion,94.86,96,815.14,1092
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2004,Saint-Emilion,94.83,93,812.73,562
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2003,Saint-Emilion,94.8,93,810.31,610
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2002,Saint-Emilion,94.77,91,807.9,599
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2001,Saint-Emilion,94.74,93,805.48,672
+"Chateau Cheval Blanc Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2000,Saint-Emilion,94.71,96,803.06,1162
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2023,Cote de Nuits,94.18,-,4316.23,-
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2022,Cote de Nuits,94.18,-,4316.23,-
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2021,Cote de Nuits,94.12,95,4309.8,-
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2020,Cote de Nuits,94.09,95,4306.58,3930
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2019,Cote de Nuits,94.06,96,4303.37,4047
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2018,Cote de Nuits,94.03,95,4300.15,4095
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2017,Cote de Nuits,94.0,95,4296.93,3948
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2016,Cote de Nuits,93.97,95,4293.72,3219
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2015,Cote de Nuits,93.94,95,4290.5,4549
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2014,Cote de Nuits,93.91,95,4287.29,3963
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2013,Cote de Nuits,93.88,94,4284.07,3918
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2012,Cote de Nuits,93.85,94,4280.86,4443
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2011,Cote de Nuits,93.82,94,4277.64,4092
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2010,Cote de Nuits,93.79,94,4274.43,4504
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2009,Cote de Nuits,93.76,95,4271.21,4396
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2008,Cote de Nuits,93.73,94,4268.0,4250
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2007,Cote de Nuits,93.7,92,4264.78,3969
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2006,Cote de Nuits,93.67,93,4261.56,3996
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2005,Cote de Nuits,93.64,95,4258.35,4903
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2004,Cote de Nuits,93.61,92,4255.13,4165
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2003,Cote de Nuits,93.58,93,4251.92,4779
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2002,Cote de Nuits,93.55,93,4248.7,4961
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2001,Cote de Nuits,93.52,92,4245.49,4150
+"Domaine de la Romanee-Conti, Grands Echezeaux Grand Cru",2000,Cote de Nuits,93.49,92,4242.27,4048
+"Chateau Coutet Premier Cru Classe, Barsac",2023,Sauternes - Barsac,93.11,-,187.41,-
+"Chateau Coutet Premier Cru Classe, Barsac",2022,Sauternes - Barsac,93.08,93,184.98,39
+"Chateau Coutet Premier Cru Classe, Barsac",2021,Sauternes - Barsac,93.05,93,182.55,48
+"Chateau Coutet Premier Cru Classe, Barsac",2020,Sauternes - Barsac,93.02,93,180.12,43
+"Chateau Coutet Premier Cru Classe, Barsac",2019,Sauternes - Barsac,92.99,93,177.69,60
+"Chateau Coutet Premier Cru Classe, Barsac",2018,Sauternes - Barsac,92.96,92,175.26,47
+"Chateau Coutet Premier Cru Classe, Barsac",2017,Sauternes - Barsac,92.93,93,172.83,57
+"Chateau Coutet Premier Cru Classe, Barsac",2016,Sauternes - Barsac,92.9,93,170.4,52
+"Chateau Coutet Premier Cru Classe, Barsac",2015,Sauternes - Barsac,92.87,94,167.97,46
+"Chateau Coutet Premier Cru Classe, Barsac",2014,Sauternes - Barsac,92.84,94,165.54,47
+"Chateau Coutet Premier Cru Classe, Barsac",2013,Sauternes - Barsac,92.81,93,163.11,47
+"Chateau Coutet Premier Cru Classe, Barsac",2012,Sauternes - Barsac,92.78,91,160.68,49
+"Chateau Coutet Premier Cru Classe, Barsac",2011,Sauternes - Barsac,92.75,93,158.25,60
+"Chateau Coutet Premier Cru Classe, Barsac",2010,Sauternes - Barsac,92.72,93,155.82,65
+"Chateau Coutet Premier Cru Classe, Barsac",2009,Sauternes - Barsac,92.69,94,153.4,60
+"Chateau Coutet Premier Cru Classe, Barsac",2008,Sauternes - Barsac,92.66,91,150.97,49
+"Chateau Coutet Premier Cru Classe, Barsac",2007,Sauternes - Barsac,92.63,93,148.54,54
+"Chateau Coutet Premier Cru Classe, Barsac",2006,Sauternes - Barsac,92.6,92,146.11,47
+"Chateau Coutet Premier Cru Classe, Barsac",2005,Sauternes - Barsac,92.57,92,143.69,54
+"Chateau Coutet Premier Cru Classe, Barsac",2004,Sauternes - Barsac,92.54,89,141.26,54
+"Chateau Coutet Premier Cru Classe, Barsac",2003,Sauternes - Barsac,92.51,92,138.83,49
+"Chateau Coutet Premier Cru Classe, Barsac",2002,Sauternes - Barsac,92.48,92,136.4,46
+"Chateau Coutet Premier Cru Classe, Barsac",2001,Sauternes - Barsac,92.45,92,133.98,70
+"Chateau Coutet Premier Cru Classe, Barsac",2000,Sauternes - Barsac,92.42,89,131.55,50
+"Petrus, Pomerol",2023,Pomerol,95.77,-,6066.58,-
+"Petrus, Pomerol",2022,Pomerol,95.74,98,6067.0,6296
+"Petrus, Pomerol",2021,Pomerol,95.71,95,6067.42,5037
+"Petrus, Pomerol",2020,Pomerol,95.68,98,6067.83,6471
+"Petrus, Pomerol",2019,Pomerol,95.65,97,6068.25,5900
+"Petrus, Pomerol",2018,Pomerol,95.62,97,6068.67,5954
+"Petrus, Pomerol",2017,Pomerol,95.59,96,6069.08,4151
+"Petrus, Pomerol",2016,Pomerol,95.56,98,6069.5,5450
+"Petrus, Pomerol",2015,Pomerol,95.53,98,6069.91,5556
+"Petrus, Pomerol",2014,Pomerol,95.5,95,6070.33,3812
+"Petrus, Pomerol",2013,Pomerol,95.47,93,6070.75,3860
+"Petrus, Pomerol",2012,Pomerol,95.44,96,6071.16,4278
+"Petrus, Pomerol",2011,Pomerol,95.41,94,6071.58,3749
+"Petrus, Pomerol",2010,Pomerol,95.38,97,6072.0,5690
+"Petrus, Pomerol",2009,Pomerol,95.35,97,6072.41,5836
+"Petrus, Pomerol",2008,Pomerol,95.32,95,6072.83,4106
+"Petrus, Pomerol",2007,Pomerol,95.29,93,6073.25,6812
+"Petrus, Pomerol",2006,Pomerol,95.26,94,6073.66,4255
+"Petrus, Pomerol",2005,Pomerol,95.23,97,6074.08,5648
+"Petrus, Pomerol",2004,Pomerol,95.2,94,6074.5,3760
+"Petrus, Pomerol",2003,Pomerol,95.17,94,6074.91,3872
+"Petrus, Pomerol",2002,Pomerol,95.14,92,6075.33,3820
+"Petrus, Pomerol",2001,Pomerol,95.11,95,6075.74,3924
+"Petrus, Pomerol",2000,Pomerol,95.08,97,6076.16,6632
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2023,Saint-Emilion Grand Cru,94.56,-,471.91,-
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2022,Saint-Emilion Grand Cru,94.53,97,469.49,450
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2021,Saint-Emilion Grand Cru,94.5,94,467.07,354
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2020,Saint-Emilion Grand Cru,94.47,97,464.66,405
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2019,Saint-Emilion Grand Cru,94.44,96,462.24,403
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2018,Saint-Emilion Grand Cru,94.41,96,459.83,459
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2017,Saint-Emilion Grand Cru,94.38,95,457.41,410
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2016,Saint-Emilion Grand Cru,94.35,97,455.0,446
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2015,Saint-Emilion Grand Cru,94.32,96,452.58,469
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2014,Saint-Emilion Grand Cru,94.29,94,450.17,357
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2013,Saint-Emilion Grand Cru,94.26,92,447.75,338
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2012,Saint-Emilion Grand Cru,94.23,93,445.34,617
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2011,Saint-Emilion Grand Cru,94.2,93,442.92,387
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2010,Saint-Emilion Grand Cru,94.17,95,440.51,467
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2009,Saint-Emilion Grand Cru,94.14,95,438.09,506
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2008,Saint-Emilion Grand Cru,94.11,93,435.68,394
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2007,Saint-Emilion Grand Cru,94.08,92,433.26,379
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2006,Saint-Emilion Grand Cru,94.05,93,430.85,403
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2005,Saint-Emilion Grand Cru,94.02,95,428.43,641
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2004,Saint-Emilion Grand Cru,93.99,93,426.02,368
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2003,Saint-Emilion Grand Cru,93.96,93,423.6,439
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2002,Saint-Emilion Grand Cru,93.93,90,421.18,384
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2001,Saint-Emilion Grand Cru,93.9,93,418.77,458
+"Chateau Angelus Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2000,Saint-Emilion Grand Cru,93.87,94,416.35,661
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2023,Saint-Julien,92.75,-,223.94,-
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2022,Saint-Julien,92.72,95,221.51,95
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2021,Saint-Julien,92.69,93,219.08,90
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2020,Saint-Julien,92.66,94,216.65,106
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2019,Saint-Julien,92.63,94,214.23,103
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2018,Saint-Julien,92.6,93,211.8,96
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2017,Saint-Julien,92.57,92,209.37,87
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2016,Saint-Julien,92.54,93,206.94,102
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2015,Saint-Julien,92.51,93,204.52,109
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2014,Saint-Julien,92.48,92,202.09,86
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2013,Saint-Julien,92.45,89,199.66,77
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2012,Saint-Julien,92.42,91,197.23,87
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2011,Saint-Julien,92.39,90,194.81,86
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2010,Saint-Julien,92.36,93,192.38,125
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2009,Saint-Julien,92.33,93,189.95,141
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2008,Saint-Julien,92.3,90,187.52,100
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2007,Saint-Julien,92.27,89,185.1,80
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2006,Saint-Julien,92.24,90,182.67,103
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2005,Saint-Julien,92.21,91,180.24,173
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2004,Saint-Julien,92.18,90,177.81,96
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2003,Saint-Julien,92.15,90,175.39,103
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2002,Saint-Julien,92.12,88,172.96,95
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2001,Saint-Julien,92.09,91,170.53,139
+"Chateau Gruaud Larose 2eme Cru Classe, Saint-Julien",2000,Saint-Julien,92.06,92,168.1,267
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2023,Sauternes,94.01,-,210.46,-
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2022,Sauternes,93.98,95,208.03,65
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2021,Sauternes,93.95,95,205.61,90
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2020,Sauternes,93.92,93,203.18,60
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2019,Sauternes,93.89,94,200.75,62
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2018,Sauternes,93.86,93,198.32,73
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2017,Sauternes,93.83,94,195.9,86
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2016,Sauternes,93.8,94,193.47,68
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2015,Sauternes,93.77,95,191.04,89
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2014,Sauternes,93.74,95,188.61,63
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2013,Sauternes,93.71,93,186.19,55
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2012,Sauternes,93.71,93,186.19,55
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2011,Sauternes,93.65,94,181.33,70
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2010,Sauternes,93.62,94,178.9,65
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2009,Sauternes,93.59,95,176.48,82
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2008,Sauternes,93.56,92,174.05,59
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2007,Sauternes,93.53,94,171.62,69
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2006,Sauternes,93.5,92,169.19,59
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2005,Sauternes,93.47,94,166.77,71
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2004,Sauternes,93.44,91,164.34,62
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2003,Sauternes,93.41,93,161.91,65
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2002,Sauternes,93.38,92,159.48,63
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2001,Sauternes,93.35,95,157.06,109
+"Chateau Suduiraut Premier Cru Classe, Sauternes",2000,Sauternes,93.32,91,154.63,57
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2023,Saint-Emilion Grand Cru,94.48,-,469.66,-
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2022,Saint-Emilion Grand Cru,94.45,97,467.24,387
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2021,Saint-Emilion Grand Cru,94.42,94,464.83,312
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2020,Saint-Emilion Grand Cru,94.39,97,462.41,354
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2019,Saint-Emilion Grand Cru,94.36,96,460.0,368
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2018,Saint-Emilion Grand Cru,94.33,96,457.58,426
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2017,Saint-Emilion Grand Cru,94.3,95,455.17,381
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2016,Saint-Emilion Grand Cru,94.27,97,452.75,448
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2015,Saint-Emilion Grand Cru,94.24,95,450.34,423
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2014,Saint-Emilion Grand Cru,94.21,93,447.92,284
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2013,Saint-Emilion Grand Cru,94.18,91,445.51,262
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2012,Saint-Emilion Grand Cru,94.15,94,443.09,383
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2011,Saint-Emilion Grand Cru,94.12,92,440.68,264
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2010,Saint-Emilion Grand Cru,94.09,95,438.26,508
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2009,Saint-Emilion Grand Cru,94.06,94,435.84,416
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2008,Saint-Emilion Grand Cru,94.03,93,433.43,323
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2007,Saint-Emilion Grand Cru,94.0,92,431.01,301
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2006,Saint-Emilion Grand Cru,93.97,93,428.6,321
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2005,Saint-Emilion Grand Cru,93.94,95,426.18,525
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2004,Saint-Emilion Grand Cru,93.91,92,423.77,306
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2003,Saint-Emilion Grand Cru,93.88,93,421.35,323
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2002,Saint-Emilion Grand Cru,93.85,92,418.94,317
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2001,Saint-Emilion Grand Cru,93.82,93,416.52,352
+"Chateau Pavie Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2000,Saint-Emilion Grand Cru,93.79,95,414.11,686
+"Domaine Armand Rousseau, Chambertin Grand Cru",2023,Cote de Nuits,95.8,-,4676.35,-
+"Domaine Armand Rousseau, Chambertin Grand Cru",2022,Cote de Nuits,95.8,-,4676.35,-
+"Domaine Armand Rousseau, Chambertin Grand Cru",2021,Cote de Nuits,95.74,95,4669.01,-
+"Domaine Armand Rousseau, Chambertin Grand Cru",2020,Cote de Nuits,95.71,96,4665.33,5502
+"Domaine Armand Rousseau, Chambertin Grand Cru",2019,Cote de Nuits,95.68,96,4661.66,5407
+"Domaine Armand Rousseau, Chambertin Grand Cru",2018,Cote de Nuits,95.65,96,4657.99,3930
+"Domaine Armand Rousseau, Chambertin Grand Cru",2017,Cote de Nuits,95.62,96,4654.32,3881
+"Domaine Armand Rousseau, Chambertin Grand Cru",2016,Cote de Nuits,95.59,97,4650.62,4780
+"Domaine Armand Rousseau, Chambertin Grand Cru",2015,Cote de Nuits,95.56,97,4646.91,5112
+"Domaine Armand Rousseau, Chambertin Grand Cru",2014,Cote de Nuits,95.53,97,4643.2,3946
+"Domaine Armand Rousseau, Chambertin Grand Cru",2013,Cote de Nuits,95.5,96,4639.49,3738
+"Domaine Armand Rousseau, Chambertin Grand Cru",2012,Cote de Nuits,95.47,96,4635.78,4202
+"Domaine Armand Rousseau, Chambertin Grand Cru",2011,Cote de Nuits,95.44,95,4632.07,3847
+"Domaine Armand Rousseau, Chambertin Grand Cru",2010,Cote de Nuits,95.41,98,4628.36,6021
+"Domaine Armand Rousseau, Chambertin Grand Cru",2009,Cote de Nuits,95.38,96,4624.65,5750
+"Domaine Armand Rousseau, Chambertin Grand Cru",2008,Cote de Nuits,95.35,95,4620.97,3824
+"Domaine Armand Rousseau, Chambertin Grand Cru",2007,Cote de Nuits,95.32,94,4617.28,4199
+"Domaine Armand Rousseau, Chambertin Grand Cru",2006,Cote de Nuits,95.29,95,4613.59,4237
+"Domaine Armand Rousseau, Chambertin Grand Cru",2005,Cote de Nuits,95.26,97,4609.9,6283
+"Domaine Armand Rousseau, Chambertin Grand Cru",2004,Cote de Nuits,95.23,93,4606.22,4813
+"Domaine Armand Rousseau, Chambertin Grand Cru",2003,Cote de Nuits,95.2,94,4602.53,5066
+"Domaine Armand Rousseau, Chambertin Grand Cru",2002,Cote de Nuits,95.17,95,4598.84,5113
+"Domaine Armand Rousseau, Chambertin Grand Cru",2001,Cote de Nuits,95.14,95,4595.56,4641
+"Domaine Armand Rousseau, Chambertin Grand Cru",2000,Cote de Nuits,95.11,93,4592.39,4058
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2023,Pauillac,91.61,-,268.8,-
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2022,Pauillac,91.58,93,266.38,82
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2021,Pauillac,91.55,91,263.95,77
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2020,Pauillac,91.52,93,261.52,101
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2019,Pauillac,91.49,93,259.09,101
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2018,Pauillac,91.46,93,256.67,105
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2017,Pauillac,91.43,91,254.24,91
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2016,Pauillac,91.4,92,251.81,100
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2015,Pauillac,91.37,91,249.38,96
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2014,Pauillac,91.34,91,246.96,90
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2013,Pauillac,91.31,88,244.53,96
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2012,Pauillac,91.28,90,242.1,101
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2011,Pauillac,91.25,90,239.68,98
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2010,Pauillac,91.22,92,237.25,123
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2009,Pauillac,91.19,92,234.82,127
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2008,Pauillac,91.16,91,232.39,108
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2007,Pauillac,91.13,89,229.97,105
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2006,Pauillac,91.1,89,227.54,106
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2005,Pauillac,91.07,91,225.11,119
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2004,Pauillac,91.04,90,222.68,130
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2003,Pauillac,91.01,91,220.25,118
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2002,Pauillac,90.98,89,217.83,105
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2001,Pauillac,90.95,90,215.4,105
+"Chateau Duhart-Milon 4eme Cru Classe, Pauillac",2000,Pauillac,90.92,90,212.97,129
+"Chateau Clinet, Pomerol",2023,Pomerol,92.51,-,332.75,-
+"Chateau Clinet, Pomerol",2022,Pomerol,92.48,95,330.32,109
+"Chateau Clinet, Pomerol",2021,Pomerol,92.45,92,327.89,91
+"Chateau Clinet, Pomerol",2020,Pomerol,92.42,94,325.47,123
+"Chateau Clinet, Pomerol",2019,Pomerol,92.39,95,323.04,149
+"Chateau Clinet, Pomerol",2018,Pomerol,92.36,94,320.61,122
+"Chateau Clinet, Pomerol",2017,Pomerol,92.33,91,318.18,102
+"Chateau Clinet, Pomerol",2016,Pomerol,92.3,94,315.76,138
+"Chateau Clinet, Pomerol",2015,Pomerol,92.27,94,313.33,145
+"Chateau Clinet, Pomerol",2014,Pomerol,92.24,91,310.9,93
+"Chateau Clinet, Pomerol",2013,Pomerol,92.2,90,308.47,84
+"Chateau Clinet, Pomerol",2012,Pomerol,92.17,91,306.05,106
+"Chateau Clinet, Pomerol",2011,Pomerol,92.14,92,303.62,105
+"Chateau Clinet, Pomerol",2010,Pomerol,92.11,93,301.19,164
+"Chateau Clinet, Pomerol",2009,Pomerol,92.08,93,298.76,326
+"Chateau Clinet, Pomerol",2008,Pomerol,92.05,91,296.34,116
+"Chateau Clinet, Pomerol",2007,Pomerol,92.02,90,293.91,117
+"Chateau Clinet, Pomerol",2006,Pomerol,91.99,91,291.48,119
+"Chateau Clinet, Pomerol",2005,Pomerol,91.96,92,289.05,178
+"Chateau Clinet, Pomerol",2004,Pomerol,91.93,90,286.63,121
+"Chateau Clinet, Pomerol",2003,Pomerol,91.9,89,284.2,111
+"Chateau Clinet, Pomerol",2002,Pomerol,91.87,89,281.77,111
+"Chateau Clinet, Pomerol",2001,Pomerol,91.84,89,279.34,135
+"Chateau Clinet, Pomerol",2000,Pomerol,91.81,90,276.92,215
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2023,Saint-Julien,93.31,-,243.04,-
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2022,Saint-Julien,93.28,95,240.61,112
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2021,Saint-Julien,93.25,93,238.18,101
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2020,Saint-Julien,93.22,95,235.75,128
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2019,Saint-Julien,93.19,95,233.33,123
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2018,Saint-Julien,93.16,95,230.9,146
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2017,Saint-Julien,93.13,93,228.47,122
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2016,Saint-Julien,93.1,95,226.04,123
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2015,Saint-Julien,93.07,94,223.62,122
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2014,Saint-Julien,93.04,93,221.19,105
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2013,Saint-Julien,93.01,91,218.76,84
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2012,Saint-Julien,92.98,92,216.33,100
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2011,Saint-Julien,92.95,92,213.91,96
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2010,Saint-Julien,92.91,95,211.48,167
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2009,Saint-Julien,92.88,95,209.05,257
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2008,Saint-Julien,92.85,92,206.62,112
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2007,Saint-Julien,92.82,91,204.2,91
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2006,Saint-Julien,92.79,92,201.77,117
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2005,Saint-Julien,92.76,93,199.34,181
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2004,Saint-Julien,92.73,92,196.91,112
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2003,Saint-Julien,92.7,93,194.49,171
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2002,Saint-Julien,92.67,90,192.06,101
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2001,Saint-Julien,92.64,92,189.63,141
+"Chateau Leoville Poyferre 2eme Cru Classe, Saint-Julien",2000,Saint-Julien,92.61,93,187.2,232
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2023,Chateauneuf-du-Pape,94.42,-,264.37,-
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2022,Chateauneuf-du-Pape,94.42,-,264.37,-
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2021,Chateauneuf-du-Pape,94.36,94,259.52,81
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2020,Chateauneuf-du-Pape,94.33,95,257.09,95
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2019,Chateauneuf-du-Pape,94.3,96,254.66,98
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2018,Chateauneuf-du-Pape,94.27,95,252.24,158
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2017,Chateauneuf-du-Pape,94.24,95,249.81,91
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2016,Chateauneuf-du-Pape,94.21,96,247.38,134
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2015,Chateauneuf-du-Pape,94.18,95,244.95,109
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2014,Chateauneuf-du-Pape,94.15,94,242.53,76
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2013,Chateauneuf-du-Pape,94.12,93,240.1,84
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2012,Chateauneuf-du-Pape,94.09,94,237.67,91
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2011,Chateauneuf-du-Pape,94.06,94,235.24,89
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2010,Chateauneuf-du-Pape,94.03,96,232.82,186
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2009,Chateauneuf-du-Pape,94.0,95,230.39,117
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2008,Chateauneuf-du-Pape,93.97,93,227.96,84
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2007,Chateauneuf-du-Pape,93.94,96,225.53,232
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2006,Chateauneuf-du-Pape,93.91,94,223.11,114
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2005,Chateauneuf-du-Pape,93.88,95,220.68,133
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2004,Chateauneuf-du-Pape,93.85,94,218.25,106
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2003,Chateauneuf-du-Pape,93.82,94,215.82,117
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2002,Chateauneuf-du-Pape,93.79,88,213.4,118
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2001,Chateauneuf-du-Pape,93.76,92,210.97,138
+"Clos des Papes, Chateauneuf-du-Pape, Rouge",2000,Chateauneuf-du-Pape,93.73,91,208.54,117
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2023,Saint-Emilion Grand Cru,92.93,-,275.05,-
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2022,Saint-Emilion Grand Cru,92.9,96,272.63,124
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2021,Saint-Emilion Grand Cru,92.87,93,270.2,108
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2020,Saint-Emilion Grand Cru,92.84,95,267.77,133
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2019,Saint-Emilion Grand Cru,92.81,95,265.34,132
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2018,Saint-Emilion Grand Cru,92.78,95,262.92,155
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2017,Saint-Emilion Grand Cru,92.75,93,260.49,134
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2016,Saint-Emilion Grand Cru,92.72,95,258.06,143
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2015,Saint-Emilion Grand Cru,92.69,94,255.63,127
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2014,Saint-Emilion Grand Cru,92.66,93,253.21,112
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2013,Saint-Emilion Grand Cru,92.63,91,250.78,105
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2012,Saint-Emilion Grand Cru,92.6,92,248.35,105
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2011,Saint-Emilion Grand Cru,92.57,92,245.92,130
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2010,Saint-Emilion Grand Cru,92.54,94,243.5,173
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2009,Saint-Emilion Grand Cru,92.51,93,241.07,273
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2008,Saint-Emilion Grand Cru,92.48,91,238.64,127
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2007,Saint-Emilion Grand Cru,92.45,90,236.21,107
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2006,Saint-Emilion Grand Cru,92.42,91,233.79,118
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2005,Saint-Emilion Grand Cru,92.39,93,231.36,194
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2004,Saint-Emilion Grand Cru,92.36,90,228.93,116
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2003,Saint-Emilion Grand Cru,92.33,92,226.5,161
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2002,Saint-Emilion Grand Cru,92.3,89,224.08,140
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2001,Saint-Emilion Grand Cru,92.27,90,221.65,140
+"Clos Fourtet Premier Grand Cru Classe B, Saint-Emilion Grand Cru",2000,Saint-Emilion Grand Cru,92.24,91,219.22,197
+"Chateau L'Eglise-Clinet, Pomerol",2023,Pomerol,94.57,-,284.99,-
+"Chateau L'Eglise-Clinet, Pomerol",2022,Pomerol,94.54,97,282.56,375
+"Chateau L'Eglise-Clinet, Pomerol",2021,Pomerol,94.51,94,280.13,283
+"Chateau L'Eglise-Clinet, Pomerol",2020,Pomerol,94.48,96,277.7,358
+"Chateau L'Eglise-Clinet, Pomerol",2019,Pomerol,94.45,97,275.28,419
+"Chateau L'Eglise-Clinet, Pomerol",2018,Pomerol,94.42,96,272.85,347
+"Chateau L'Eglise-Clinet, Pomerol",2017,Pomerol,94.39,95,270.42,245
+"Chateau L'Eglise-Clinet, Pomerol",2016,Pomerol,94.36,97,267.99,367
+"Chateau L'Eglise-Clinet, Pomerol",2015,Pomerol,94.33,96,265.57,285
+"Chateau L'Eglise-Clinet, Pomerol",2014,Pomerol,94.3,94,263.14,202
+"Chateau L'Eglise-Clinet, Pomerol",2013,Pomerol,94.27,92,260.71,140
+"Chateau L'Eglise-Clinet, Pomerol",2012,Pomerol,94.24,94,258.28,212
+"Chateau L'Eglise-Clinet, Pomerol",2011,Pomerol,94.21,93,255.86,150
+"Chateau L'Eglise-Clinet, Pomerol",2010,Pomerol,94.18,96,253.43,428
+"Chateau L'Eglise-Clinet, Pomerol",2009,Pomerol,94.15,95,251.0,435
+"Chateau L'Eglise-Clinet, Pomerol",2008,Pomerol,94.12,93,248.57,205
+"Chateau L'Eglise-Clinet, Pomerol",2007,Pomerol,94.09,91,246.15,133
+"Chateau L'Eglise-Clinet, Pomerol",2006,Pomerol,94.06,93,243.72,207
+"Chateau L'Eglise-Clinet, Pomerol",2005,Pomerol,94.03,96,241.29,520
+"Chateau L'Eglise-Clinet, Pomerol",2004,Pomerol,94.0,92,238.86,169
+"Chateau L'Eglise-Clinet, Pomerol",2003,Pomerol,93.97,92,236.44,154
+"Chateau L'Eglise-Clinet, Pomerol",2002,Pomerol,93.94,90,234.01,134
+"Chateau L'Eglise-Clinet, Pomerol",2001,Pomerol,93.91,94,231.58,257
+"Chateau L'Eglise-Clinet, Pomerol",2000,Pomerol,93.88,96,229.15,433
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2023,Cote de Nuits,94.64,-,1175.93,-
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2022,Cote de Nuits,94.64,-,1175.93,-
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2021,Cote de Nuits,94.58,94,1170.9,2654
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2020,Cote de Nuits,94.55,97,1168.39,2584
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2019,Cote de Nuits,94.52,95,1165.87,3166
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2018,Cote de Nuits,94.49,95,1163.36,2351
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2017,Cote de Nuits,94.46,95,1160.84,2037
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2016,Cote de Nuits,94.43,96,1158.33,2187
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2015,Cote de Nuits,94.4,96,1155.81,2791
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2014,Cote de Nuits,94.37,95,1153.3,2153
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2013,Cote de Nuits,94.34,94,1150.78,2044
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2012,Cote de Nuits,94.31,95,1148.27,2250
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2011,Cote de Nuits,94.28,94,1145.75,2077
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2010,Cote de Nuits,94.25,95,1143.24,3759
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2009,Cote de Nuits,94.22,95,1140.73,3021
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2008,Cote de Nuits,94.19,95,1138.21,2317
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2007,Cote de Nuits,94.16,94,1135.7,2430
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2006,Cote de Nuits,94.13,93,1133.18,2314
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2005,Cote de Nuits,94.1,95,1130.67,3128
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2004,Cote de Nuits,94.07,89,1128.15,1889
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2003,Cote de Nuits,94.04,92,1125.64,2239
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2002,Cote de Nuits,94.01,95,1123.12,3085
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2001,Cote de Nuits,93.98,93,1120.61,3071
+"Domaine Georges Roumier, Bonnes Mares Grand Cru",2000,Cote de Nuits,93.95,91,1118.09,2524
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2023,Cote de Nuits,95.23,-,981.46,-
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2022,Cote de Nuits,95.23,-,981.46,-
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2021,Cote de Nuits,95.17,95,976.63,1301
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2020,Cote de Nuits,95.14,96,974.21,1215
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2019,Cote de Nuits,95.11,96,971.8,1209
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2018,Cote de Nuits,95.08,95,969.38,1025
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2017,Cote de Nuits,95.05,94,966.97,850
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2016,Cote de Nuits,95.02,95,964.55,1058
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2015,Cote de Nuits,94.99,96,962.14,1193
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2014,Cote de Nuits,94.96,95,959.72,891
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2013,Cote de Nuits,94.93,95,957.31,878
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2012,Cote de Nuits,94.9,96,954.89,1087
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2011,Cote de Nuits,94.87,94,952.48,835
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2010,Cote de Nuits,94.84,96,950.06,1221
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2009,Cote de Nuits,94.81,95,947.65,1248
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2008,Cote de Nuits,94.78,95,945.23,1060
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2007,Cote de Nuits,94.75,94,942.82,1010
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2006,Cote de Nuits,94.72,95,940.4,1167
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2005,Cote de Nuits,94.69,96,937.99,1980
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2004,Cote de Nuits,94.66,94,935.57,984
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2003,Cote de Nuits,94.63,92,933.16,1288
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2002,Cote de Nuits,94.6,95,930.74,1642
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2001,Cote de Nuits,94.57,94,928.33,1012
+"Domaine Comte Georges de Vogue, Musigny Grand Cru, Cuvee Vieilles Vignes",2000,Cote de Nuits,94.54,94,925.91,1203
+"Chateau Climens Premier Cru Classe, Barsac",2023,Sauternes - Barsac,94.21,-,227.07,-
+"Chateau Climens Premier Cru Classe, Barsac",2022,Sauternes - Barsac,94.18,93,224.64,146
+"Chateau Climens Premier Cru Classe, Barsac",2021,Sauternes - Barsac,94.18,93,224.64,146
+"Chateau Climens Premier Cru Classe, Barsac",2020,Sauternes - Barsac,94.12,95,219.78,-
+"Chateau Climens Premier Cru Classe, Barsac",2019,Sauternes - Barsac,94.08,93,217.36,126
+"Chateau Climens Premier Cru Classe, Barsac",2018,Sauternes - Barsac,94.08,93,217.36,126
+"Chateau Climens Premier Cru Classe, Barsac",2017,Sauternes - Barsac,94.08,93,217.36,126
+"Chateau Climens Premier Cru Classe, Barsac",2016,Sauternes - Barsac,93.99,94,210.07,77
+"Chateau Climens Premier Cru Classe, Barsac",2015,Sauternes - Barsac,93.96,95,207.65,77
+"Chateau Climens Premier Cru Classe, Barsac",2014,Sauternes - Barsac,93.93,94,205.22,75
+"Chateau Climens Premier Cru Classe, Barsac",2013,Sauternes - Barsac,93.9,94,202.79,70
+"Chateau Climens Premier Cru Classe, Barsac",2012,Sauternes - Barsac,93.87,92,200.36,74
+"Chateau Climens Premier Cru Classe, Barsac",2011,Sauternes - Barsac,93.84,95,197.94,96
+"Chateau Climens Premier Cru Classe, Barsac",2010,Sauternes - Barsac,93.81,94,195.51,106
+"Chateau Climens Premier Cru Classe, Barsac",2009,Sauternes - Barsac,93.78,96,193.08,101
+"Chateau Climens Premier Cru Classe, Barsac",2008,Sauternes - Barsac,93.75,93,190.65,90
+"Chateau Climens Premier Cru Classe, Barsac",2007,Sauternes - Barsac,93.72,95,188.23,144
+"Chateau Climens Premier Cru Classe, Barsac",2006,Sauternes - Barsac,93.69,95,185.8,82
+"Chateau Climens Premier Cru Classe, Barsac",2005,Sauternes - Barsac,93.66,94,183.37,105
+"Chateau Climens Premier Cru Classe, Barsac",2004,Sauternes - Barsac,93.63,92,180.94,71
+"Chateau Climens Premier Cru Classe, Barsac",2003,Sauternes - Barsac,93.6,94,178.52,89
+"Chateau Climens Premier Cru Classe, Barsac",2002,Sauternes - Barsac,93.57,94,176.09,91
+"Chateau Climens Premier Cru Classe, Barsac",2001,Sauternes - Barsac,93.54,95,173.66,257
+"Chateau Climens Premier Cru Classe, Barsac",2000,Sauternes - Barsac,93.51,91,171.23,92
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2023,Saint-Emilion,95.69,-,711.69,-
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2022,Saint-Emilion,95.66,97,709.28,736
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2021,Saint-Emilion,95.63,96,706.86,686
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2020,Saint-Emilion,95.6,97,704.45,795
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2019,Saint-Emilion,95.57,98,702.03,804
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2018,Saint-Emilion,95.54,98,699.62,942
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2017,Saint-Emilion,95.51,96,697.2,675
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2016,Saint-Emilion,95.48,98,694.79,903
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2015,Saint-Emilion,95.45,97,692.37,943
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2014,Saint-Emilion,95.42,95,689.96,620
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2013,Saint-Emilion,95.39,92,687.54,529
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2012,Saint-Emilion,95.36,95,685.13,640
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2011,Saint-Emilion,95.33,95,682.71,652
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2010,Saint-Emilion,95.3,97,680.3,1331
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2009,Saint-Emilion,95.27,97,677.88,1260
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2008,Saint-Emilion,95.24,95,675.46,715
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2007,Saint-Emilion,95.21,93,673.05,689
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2006,Saint-Emilion,95.18,95,670.63,854
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2005,Saint-Emilion,95.15,98,668.22,1608
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2004,Saint-Emilion,95.12,94,665.8,599
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2003,Saint-Emilion,95.09,96,663.39,959
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2002,Saint-Emilion,95.06,93,660.97,549
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2001,Saint-Emilion,95.03,94,658.56,840
+"Chateau Ausone Premier Grand Cru Classe A, Saint-Emilion Grand Cru",2000,Saint-Emilion,95.0,97,656.14,1445
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2023,Pauillac,93.72,-,369.43,-
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2022,Pauillac,93.69,96,367.01,121
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2021,Pauillac,93.66,94,364.58,102
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2020,Pauillac,93.63,95,362.15,124
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2019,Pauillac,93.6,96,359.73,135
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2018,Pauillac,93.57,97,357.3,149
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2017,Pauillac,93.54,94,354.87,128
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2016,Pauillac,93.51,97,352.44,177
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2015,Pauillac,93.48,95,350.01,148
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2014,Pauillac,93.45,94,347.59,213
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2013,Pauillac,93.42,92,345.16,153
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2012,Pauillac,93.39,93,342.73,113
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2011,Pauillac,93.36,93,340.31,109
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2010,Pauillac,93.33,96,337.88,272
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2009,Pauillac,93.3,96,335.45,293
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2008,Pauillac,93.27,92,333.02,124
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2007,Pauillac,93.24,91,330.6,113
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2006,Pauillac,93.21,93,328.17,123
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2005,Pauillac,93.18,94,325.74,178
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2004,Pauillac,93.15,91,323.31,116
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2003,Pauillac,93.12,93,320.89,140
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2002,Pauillac,93.09,90,318.46,118
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2001,Pauillac,93.06,90,316.03,135
+"Chateau Pontet-Canet 5eme Cru Classe, Pauillac",2000,Pauillac,93.03,92,313.6,198
+"Vieux Chateau Certan, Pomerol",2023,Pomerol,94.61,-,640.2,-
+"Vieux Chateau Certan, Pomerol",2022,Pomerol,94.58,97,637.78,365
+"Vieux Chateau Certan, Pomerol",2021,Pomerol,94.55,95,635.37,308
+"Vieux Chateau Certan, Pomerol",2020,Pomerol,94.52,97,632.95,408
+"Vieux Chateau Certan, Pomerol",2019,Pomerol,94.49,97,630.54,344
+"Vieux Chateau Certan, Pomerol",2018,Pomerol,94.46,97,628.12,363
+"Vieux Chateau Certan, Pomerol",2017,Pomerol,94.43,96,625.71,246
+"Vieux Chateau Certan, Pomerol",2016,Pomerol,94.4,97,623.29,413
+"Vieux Chateau Certan, Pomerol",2015,Pomerol,94.37,96,620.88,349
+"Vieux Chateau Certan, Pomerol",2014,Pomerol,94.34,95,618.46,219
+"Vieux Chateau Certan, Pomerol",2013,Pomerol,94.31,91,616.05,159
+"Vieux Chateau Certan, Pomerol",2012,Pomerol,94.28,93,613.63,202
+"Vieux Chateau Certan, Pomerol",2011,Pomerol,94.25,94,611.22,196
+"Vieux Chateau Certan, Pomerol",2010,Pomerol,94.22,96,608.8,421
+"Vieux Chateau Certan, Pomerol",2009,Pomerol,94.19,96,606.39,364
+"Vieux Chateau Certan, Pomerol",2008,Pomerol,94.16,93,603.97,210
+"Vieux Chateau Certan, Pomerol",2007,Pomerol,94.13,91,601.56,185
+"Vieux Chateau Certan, Pomerol",2006,Pomerol,94.1,94,599.14,236
+"Vieux Chateau Certan, Pomerol",2005,Pomerol,94.07,95,596.73,300
+"Vieux Chateau Certan, Pomerol",2004,Pomerol,94.04,92,594.31,207
+"Vieux Chateau Certan, Pomerol",2003,Pomerol,94.01,90,591.89,216
+"Vieux Chateau Certan, Pomerol",2002,Pomerol,93.98,91,589.48,188
+"Vieux Chateau Certan, Pomerol",2001,Pomerol,93.95,93,587.06,310
+"Vieux Chateau Certan, Pomerol",2000,Pomerol,93.92,94,584.65,346
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2023,Pauillac,91.45,-,889.42,-
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2022,Pauillac,91.42,93,887.0,235
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2021,Pauillac,91.39,91,884.59,232
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2020,Pauillac,91.36,93,882.17,274
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2019,Pauillac,91.33,93,879.76,285
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2018,Pauillac,91.3,93,877.34,308
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2017,Pauillac,91.27,92,874.93,292
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2016,Pauillac,91.24,92,872.51,380
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2015,Pauillac,91.21,92,870.09,354
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2014,Pauillac,91.18,92,867.68,319
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2013,Pauillac,91.15,89,865.26,301
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2012,Pauillac,91.12,90,862.85,304
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2011,Pauillac,91.09,89,860.43,315
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2010,Pauillac,91.06,91,858.02,321
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2009,Pauillac,91.03,91,855.6,327
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2008,Pauillac,91.0,90,853.19,306
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2007,Pauillac,90.97,88,850.77,319
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2006,Pauillac,90.94,90,848.36,308
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2005,Pauillac,90.91,90,845.94,312
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2004,Pauillac,90.88,93,843.53,312
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2003,Pauillac,90.85,87,841.11,378
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2002,Pauillac,90.82,90,838.7,296
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2001,Pauillac,90.79,89,836.28,312
+"Le Petit Mouton de Mouton Rothschild, Pauillac",2000,Pauillac,90.76,88,833.87,391
+"Les Forts de Latour, Pauillac",2023,Pauillac,92.54,-,723.21,-
+"Les Forts de Latour, Pauillac",2022,Pauillac,92.51,94,720.79,-
+"Les Forts de Latour, Pauillac",2021,Pauillac,92.48,91,718.37,-
+"Les Forts de Latour, Pauillac",2020,Pauillac,92.45,94,715.96,178
+"Les Forts de Latour, Pauillac",2019,Pauillac,92.42,94,713.54,-
+"Les Forts de Latour, Pauillac",2018,Pauillac,92.39,93,711.13,300
+"Les Forts de Latour, Pauillac",2017,Pauillac,92.36,92,708.71,240
+"Les Forts de Latour, Pauillac",2016,Pauillac,92.33,94,706.3,267
+"Les Forts de Latour, Pauillac",2015,Pauillac,92.3,93,703.88,257
+"Les Forts de Latour, Pauillac",2014,Pauillac,92.27,92,701.47,242
+"Les Forts de Latour, Pauillac",2013,Pauillac,92.24,90,699.05,223
+"Les Forts de Latour, Pauillac",2012,Pauillac,92.21,91,696.64,258
+"Les Forts de Latour, Pauillac",2011,Pauillac,92.18,91,694.22,230
+"Les Forts de Latour, Pauillac",2010,Pauillac,92.15,93,691.81,284
+"Les Forts de Latour, Pauillac",2009,Pauillac,92.12,93,689.39,263
+"Les Forts de Latour, Pauillac",2008,Pauillac,92.09,91,686.98,228
+"Les Forts de Latour, Pauillac",2007,Pauillac,92.06,90,684.56,241
+"Les Forts de Latour, Pauillac",2006,Pauillac,92.03,90,682.15,239
+"Les Forts de Latour, Pauillac",2005,Pauillac,92.0,92,679.73,262
+"Les Forts de Latour, Pauillac",2004,Pauillac,91.97,91,677.31,216
+"Les Forts de Latour, Pauillac",2003,Pauillac,91.94,91,674.9,236
+"Les Forts de Latour, Pauillac",2002,Pauillac,91.91,90,672.49,247
+"Les Forts de Latour, Pauillac",2001,Pauillac,91.88,90,670.07,252
+"Les Forts de Latour, Pauillac",2000,Pauillac,91.85,92,667.65,294
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2023,Pessac-Leognan,93.04,-,409.01,-
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2022,Pessac-Leognan,93.01,94,406.59,84
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2021,Pessac-Leognan,92.98,92,404.18,86
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2020,Pessac-Leognan,92.95,94,401.76,103
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2019,Pessac-Leognan,92.92,94,399.34,103
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2018,Pessac-Leognan,92.89,94,396.93,112
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2017,Pessac-Leognan,92.86,94,394.51,95
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2016,Pessac-Leognan,92.83,94,392.1,117
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2015,Pessac-Leognan,92.8,93,389.68,127
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2014,Pessac-Leognan,92.77,93,387.27,101
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2013,Pessac-Leognan,92.74,90,384.85,85
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2012,Pessac-Leognan,92.71,92,382.44,108
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2011,Pessac-Leognan,92.68,91,380.02,111
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2010,Pessac-Leognan,92.65,94,377.61,293
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2009,Pessac-Leognan,92.62,94,375.19,216
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2008,Pessac-Leognan,92.59,92,372.78,124
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2007,Pessac-Leognan,92.56,91,370.36,113
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2006,Pessac-Leognan,92.53,92,367.95,137
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2005,Pessac-Leognan,92.5,94,365.53,228
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2004,Pessac-Leognan,92.47,92,363.12,130
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2003,Pessac-Leognan,92.44,93,360.7,143
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2002,Pessac-Leognan,92.41,90,358.29,109
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2001,Pessac-Leognan,92.38,92,355.87,169
+"Chateau Pape Clement Cru Classe, Pessac-Leognan",2000,Pessac-Leognan,92.35,93,353.45,204
+"Coche-Dury, Meursault",2023,Cote de Beaune,92.29,-,1037.96,-
+"Coche-Dury, Meursault",2022,Cote de Beaune,92.29,-,1037.96,-
+"Coche-Dury, Meursault",2021,Cote de Beaune,92.29,-,1037.96,-
+"Coche-Dury, Meursault",2020,Cote de Beaune,92.2,93,1030.75,1146
+"Coche-Dury, Meursault",2019,Cote de Beaune,92.17,93,1028.35,1119
+"Coche-Dury, Meursault",2018,Cote de Beaune,92.14,92,1025.94,1036
+"Coche-Dury, Meursault",2017,Cote de Beaune,92.11,92,1023.54,1052
+"Coche-Dury, Meursault",2016,Cote de Beaune,92.08,92,1021.14,1054
+"Coche-Dury, Meursault",2015,Cote de Beaune,92.05,92,1018.73,1223
+"Coche-Dury, Meursault",2014,Cote de Beaune,92.02,93,1016.33,1352
+"Coche-Dury, Meursault",2013,Cote de Beaune,91.99,91,1013.93,1049
+"Coche-Dury, Meursault",2012,Cote de Beaune,91.96,91,1011.52,1426
+"Coche-Dury, Meursault",2011,Cote de Beaune,91.93,91,1009.12,1228
+"Coche-Dury, Meursault",2010,Cote de Beaune,91.9,91,1006.71,1665
+"Coche-Dury, Meursault",2009,Cote de Beaune,91.87,92,1004.31,1494
+"Coche-Dury, Meursault",2008,Cote de Beaune,91.84,92,1001.91,1284
+"Coche-Dury, Meursault",2007,Cote de Beaune,91.81,92,999.51,1525
+"Coche-Dury, Meursault",2006,Cote de Beaune,91.78,91,997.12,1401
+"Coche-Dury, Meursault",2005,Cote de Beaune,91.75,91,994.72,1734
+"Coche-Dury, Meursault",2004,Cote de Beaune,91.72,92,992.33,1411
+"Coche-Dury, Meursault",2003,Cote de Beaune,91.69,89,989.93,1538
+"Coche-Dury, Meursault",2002,Cote de Beaune,91.66,91,987.54,1395
+"Coche-Dury, Meursault",2001,Cote de Beaune,91.63,91,985.15,1539
+"Coche-Dury, Meursault",2000,Cote de Beaune,91.6,91,982.75,1486
+"Le Clarence de Haut-Brion, Pessac-Leognan",2023,Pessac-Leognan,91.11,-,354.79,-
+"Le Clarence de Haut-Brion, Pessac-Leognan",2022,Pessac-Leognan,91.08,93,352.37,173
+"Le Clarence de Haut-Brion, Pessac-Leognan",2021,Pessac-Leognan,91.04,91,349.94,146
+"Le Clarence de Haut-Brion, Pessac-Leognan",2020,Pessac-Leognan,91.01,92,347.51,187
+"Le Clarence de Haut-Brion, Pessac-Leognan",2019,Pessac-Leognan,90.98,92,345.08,159
+"Le Clarence de Haut-Brion, Pessac-Leognan",2018,Pessac-Leognan,90.95,92,342.66,178
+"Le Clarence de Haut-Brion, Pessac-Leognan",2017,Pessac-Leognan,90.92,91,340.23,164
+"Le Clarence de Haut-Brion, Pessac-Leognan",2016,Pessac-Leognan,90.89,93,337.8,186
+"Le Clarence de Haut-Brion, Pessac-Leognan",2015,Pessac-Leognan,90.86,92,335.38,161
+"Le Clarence de Haut-Brion, Pessac-Leognan",2014,Pessac-Leognan,90.83,90,332.95,135
+"Le Clarence de Haut-Brion, Pessac-Leognan",2013,Pessac-Leognan,90.8,89,330.52,151
+"Le Clarence de Haut-Brion, Pessac-Leognan",2012,Pessac-Leognan,90.77,90,328.09,145
+"Le Clarence de Haut-Brion, Pessac-Leognan",2011,Pessac-Leognan,90.74,90,325.66,148
+"Le Clarence de Haut-Brion, Pessac-Leognan",2010,Pessac-Leognan,90.71,91,323.24,173
+"Le Clarence de Haut-Brion, Pessac-Leognan",2009,Pessac-Leognan,90.68,91,320.81,148
+"Le Clarence de Haut-Brion, Pessac-Leognan",2008,Pessac-Leognan,90.65,90,318.38,149
+"Le Clarence de Haut-Brion, Pessac-Leognan",2007,Pessac-Leognan,90.62,88,315.95,144
+"Le Clarence de Haut-Brion, Pessac-Leognan",2006,Pessac-Leognan,90.59,88,313.53,149
+"Le Clarence de Haut-Brion, Pessac-Leognan",2005,Pessac-Leognan,90.56,91,311.1,159
+"Le Clarence de Haut-Brion, Pessac-Leognan",2004,Pessac-Leognan,90.53,85,308.67,135
+"Le Clarence de Haut-Brion, Pessac-Leognan",2003,Pessac-Leognan,90.5,89,306.24,146
+"Le Clarence de Haut-Brion, Pessac-Leognan",2002,Pessac-Leognan,90.47,87,303.82,111
+"Le Clarence de Haut-Brion, Pessac-Leognan",2001,Pessac-Leognan,90.44,88,301.39,143
+"Le Clarence de Haut-Brion, Pessac-Leognan",2000,Pessac-Leognan,90.41,89,298.96,175
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2023,Sauternes,95.83,-,305.09,-
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2022,Sauternes,95.83,-,305.09,-
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2021,Sauternes,95.83,-,305.09,-
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2020,Sauternes,95.74,96,297.84,369
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2019,Sauternes,95.71,96,295.43,379
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2018,Sauternes,95.68,96,293.01,419
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2017,Sauternes,95.65,97,290.6,496
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2016,Sauternes,95.62,96,288.18,469
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2015,Sauternes,95.59,97,285.77,445
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2014,Sauternes,95.56,97,283.35,403
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2013,Sauternes,95.53,96,280.94,394
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2012,Sauternes,95.53,96,280.94,394
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2011,Sauternes,95.47,96,276.11,396
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2010,Sauternes,95.44,96,273.69,579
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2009,Sauternes,95.41,97,271.28,604
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2008,Sauternes,95.38,95,268.86,357
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2007,Sauternes,95.35,97,266.45,476
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2006,Sauternes,95.32,96,264.03,451
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2005,Sauternes,95.29,96,261.61,501
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2004,Sauternes,95.26,93,259.2,355
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2003,Sauternes,95.23,95,256.78,376
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2002,Sauternes,95.2,95,254.37,402
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2001,Sauternes,95.17,98,251.95,716
+"Chateau d'Yquem Premier Cru Superieur, Sauternes",2000,Sauternes,95.14,92,249.54,429
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2023,Cote de Nuits,93.79,-,467.91,-
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2022,Cote de Nuits,93.79,-,467.91,-
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2021,Cote de Nuits,93.73,94,463.08,562
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2020,Cote de Nuits,93.7,96,460.67,707
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2019,Cote de Nuits,93.66,95,458.25,664
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2018,Cote de Nuits,93.63,95,455.84,391
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2017,Cote de Nuits,93.6,94,453.42,357
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2016,Cote de Nuits,93.57,93,451.01,359
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2015,Cote de Nuits,93.54,94,448.59,461
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2014,Cote de Nuits,93.51,93,446.18,349
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2013,Cote de Nuits,93.48,93,443.76,311
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2012,Cote de Nuits,93.45,93,441.35,368
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2011,Cote de Nuits,93.42,92,438.93,322
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2010,Cote de Nuits,93.39,94,436.51,446
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2009,Cote de Nuits,93.36,93,434.1,421
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2008,Cote de Nuits,93.33,93,431.68,380
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2007,Cote de Nuits,93.3,91,429.27,352
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2006,Cote de Nuits,93.27,93,426.85,339
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2005,Cote de Nuits,93.24,94,424.44,513
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2004,Cote de Nuits,93.21,92,422.02,339
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2003,Cote de Nuits,93.18,93,419.61,380
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2002,Cote de Nuits,93.15,93,417.19,501
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2001,Cote de Nuits,93.12,92,414.78,450
+"Domaine des Lambrays, Clos des Lambrays Grand Cru",2000,Cote de Nuits,93.09,91,412.36,433
+"Clos de Tart, Clos de Tart Grand Cru",2023,Cote de Nuits,94.3,-,579.85,-
+"Clos de Tart, Clos de Tart Grand Cru",2022,Cote de Nuits,94.3,-,579.85,-
+"Clos de Tart, Clos de Tart Grand Cru",2021,Cote de Nuits,94.24,95,575.02,807
+"Clos de Tart, Clos de Tart Grand Cru",2020,Cote de Nuits,94.21,95,572.6,886
+"Clos de Tart, Clos de Tart Grand Cru",2019,Cote de Nuits,94.18,97,570.19,809
+"Clos de Tart, Clos de Tart Grand Cru",2018,Cote de Nuits,94.15,94,567.77,674
+"Clos de Tart, Clos de Tart Grand Cru",2017,Cote de Nuits,94.12,96,565.36,627
+"Clos de Tart, Clos de Tart Grand Cru",2016,Cote de Nuits,94.09,96,562.94,740
+"Clos de Tart, Clos de Tart Grand Cru",2015,Cote de Nuits,94.06,96,560.53,732
+"Clos de Tart, Clos de Tart Grand Cru",2014,Cote de Nuits,94.03,94,558.11,578
+"Clos de Tart, Clos de Tart Grand Cru",2013,Cote de Nuits,94.0,94,555.7,592
+"Clos de Tart, Clos de Tart Grand Cru",2012,Cote de Nuits,93.97,94,553.28,615
+"Clos de Tart, Clos de Tart Grand Cru",2011,Cote de Nuits,93.94,93,550.87,638
+"Clos de Tart, Clos de Tart Grand Cru",2010,Cote de Nuits,93.91,95,548.45,784
+"Clos de Tart, Clos de Tart Grand Cru",2009,Cote de Nuits,93.88,95,546.04,704
+"Clos de Tart, Clos de Tart Grand Cru",2008,Cote de Nuits,93.85,94,543.62,633
+"Clos de Tart, Clos de Tart Grand Cru",2007,Cote de Nuits,93.82,93,541.2,674
+"Clos de Tart, Clos de Tart Grand Cru",2006,Cote de Nuits,93.79,93,538.79,627
+"Clos de Tart, Clos de Tart Grand Cru",2005,Cote de Nuits,93.76,95,536.37,889
+"Clos de Tart, Clos de Tart Grand Cru",2004,Cote de Nuits,93.72,91,533.96,643
+"Clos de Tart, Clos de Tart Grand Cru",2003,Cote de Nuits,93.69,92,531.54,726
+"Clos de Tart, Clos de Tart Grand Cru",2002,Cote de Nuits,93.66,94,529.13,843
+"Clos de Tart, Clos de Tart Grand Cru",2001,Cote de Nuits,93.63,93,526.71,768
+"Clos de Tart, Clos de Tart Grand Cru",2000,Cote de Nuits,93.6,92,524.3,737
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2023,Pessac-Leognan,93.61,-,274.66,-
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2022,Pessac-Leognan,93.58,96,272.23,157
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2021,Pessac-Leognan,93.55,94,269.81,132
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2020,Pessac-Leognan,93.52,96,267.38,149
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2019,Pessac-Leognan,93.49,95,264.95,134
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2018,Pessac-Leognan,93.46,95,262.52,150
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2017,Pessac-Leognan,93.43,94,260.1,118
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2016,Pessac-Leognan,93.4,96,257.67,167
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2015,Pessac-Leognan,93.37,96,255.24,146
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2014,Pessac-Leognan,93.34,94,252.81,101
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2013,Pessac-Leognan,93.31,91,250.39,68
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2012,Pessac-Leognan,93.28,92,247.96,97
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2011,Pessac-Leognan,93.25,91,245.53,92
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2010,Pessac-Leognan,93.22,95,243.1,216
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2009,Pessac-Leognan,93.19,95,240.68,244
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2008,Pessac-Leognan,93.16,93,238.25,119
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2007,Pessac-Leognan,93.13,91,235.82,85
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2006,Pessac-Leognan,93.1,92,233.4,119
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2005,Pessac-Leognan,93.07,93,230.97,173
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2004,Pessac-Leognan,93.04,92,228.54,100
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2003,Pessac-Leognan,93.01,91,226.11,103
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2002,Pessac-Leognan,92.98,90,223.68,96
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2001,Pessac-Leognan,92.95,91,221.26,149
+"Chateau Haut-Bailly Cru Classe, Pessac-Leognan",2000,Pessac-Leognan,92.92,93,218.83,177
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2023,Saint-Estephe,93.94,-,267.59,-
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2022,Saint-Estephe,93.91,98,265.16,220
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2021,Saint-Estephe,93.88,94,262.74,157
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2020,Saint-Estephe,93.85,96,260.31,225
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2019,Saint-Estephe,93.82,97,257.88,200
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2018,Saint-Estephe,93.79,96,255.45,223
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2017,Saint-Estephe,93.76,94,253.03,157
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2016,Saint-Estephe,93.73,97,250.6,240
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2015,Saint-Estephe,93.7,95,248.17,172
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2014,Saint-Estephe,93.67,95,245.74,157
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2013,Saint-Estephe,93.64,92,243.32,105
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2012,Saint-Estephe,93.61,93,240.89,124
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2011,Saint-Estephe,93.58,92,238.46,130
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2010,Saint-Estephe,93.55,96,236.03,289
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2009,Saint-Estephe,93.52,96,233.61,341
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2008,Saint-Estephe,93.49,92,231.18,129
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2007,Saint-Estephe,93.46,91,228.75,111
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2006,Saint-Estephe,93.43,91,226.32,139
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2005,Saint-Estephe,93.4,94,223.9,240
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2004,Saint-Estephe,93.37,92,221.47,130
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2003,Saint-Estephe,93.34,95,219.04,250
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2002,Saint-Estephe,93.31,90,216.61,123
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2001,Saint-Estephe,93.28,93,214.19,169
+"Chateau Montrose 2eme Cru Classe, Saint-Estephe",2000,Saint-Estephe,93.25,94,211.76,240
+"Chateau Rieussec Premier Cru Classe, Sauternes",2023,Sauternes,93.5,-,205.1,-
+"Chateau Rieussec Premier Cru Classe, Sauternes",2022,Sauternes,93.47,94,202.68,-
+"Chateau Rieussec Premier Cru Classe, Sauternes",2021,Sauternes,93.44,95,200.25,95
+"Chateau Rieussec Premier Cru Classe, Sauternes",2020,Sauternes,93.41,94,197.82,107
+"Chateau Rieussec Premier Cru Classe, Sauternes",2019,Sauternes,93.38,94,195.39,128
+"Chateau Rieussec Premier Cru Classe, Sauternes",2018,Sauternes,93.35,92,192.97,53
+"Chateau Rieussec Premier Cru Classe, Sauternes",2017,Sauternes,93.31,94,190.54,75
+"Chateau Rieussec Premier Cru Classe, Sauternes",2016,Sauternes,93.28,93,188.11,69
+"Chateau Rieussec Premier Cru Classe, Sauternes",2015,Sauternes,93.25,94,185.68,62
+"Chateau Rieussec Premier Cru Classe, Sauternes",2014,Sauternes,93.22,93,183.26,63
+"Chateau Rieussec Premier Cru Classe, Sauternes",2013,Sauternes,93.19,93,180.83,65
+"Chateau Rieussec Premier Cru Classe, Sauternes",2012,Sauternes,93.19,93,180.83,65
+"Chateau Rieussec Premier Cru Classe, Sauternes",2011,Sauternes,93.13,93,175.97,71
+"Chateau Rieussec Premier Cru Classe, Sauternes",2010,Sauternes,93.1,92,173.55,69
+"Chateau Rieussec Premier Cru Classe, Sauternes",2009,Sauternes,93.07,95,171.12,82
+"Chateau Rieussec Premier Cru Classe, Sauternes",2008,Sauternes,93.04,92,168.69,54
+"Chateau Rieussec Premier Cru Classe, Sauternes",2007,Sauternes,93.01,93,166.26,70
+"Chateau Rieussec Premier Cru Classe, Sauternes",2006,Sauternes,92.98,92,163.84,77
+"Chateau Rieussec Premier Cru Classe, Sauternes",2005,Sauternes,92.95,93,161.41,86
+"Chateau Rieussec Premier Cru Classe, Sauternes",2004,Sauternes,92.92,91,158.98,58
+"Chateau Rieussec Premier Cru Classe, Sauternes",2003,Sauternes,92.89,93,156.55,64
+"Chateau Rieussec Premier Cru Classe, Sauternes",2002,Sauternes,92.86,91,154.13,54
+"Chateau Rieussec Premier Cru Classe, Sauternes",2001,Sauternes,92.83,95,151.7,165
+"Chateau Rieussec Premier Cru Classe, Sauternes",2000,Sauternes,92.8,91,149.27,63
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2023,Pauillac,95.34,-,1453.66,-
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2022,Pauillac,95.31,98,1451.98,689
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2021,Pauillac,95.28,95,1450.31,588
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2020,Pauillac,95.25,98,1448.63,753
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2019,Pauillac,95.22,98,1446.96,760
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2018,Pauillac,95.19,97,1445.28,843
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2017,Pauillac,95.16,95,1443.6,613
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2016,Pauillac,95.13,98,1441.93,926
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2015,Pauillac,95.1,96,1440.25,759
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2014,Pauillac,95.07,95,1438.58,599
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2013,Pauillac,95.04,93,1436.9,573
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2012,Pauillac,95.01,95,1435.23,615
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2011,Pauillac,94.98,94,1433.55,597
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2010,Pauillac,94.95,97,1431.88,1044
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2009,Pauillac,94.92,97,1430.2,989
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2008,Pauillac,94.88,95,1428.52,677
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2007,Pauillac,94.85,93,1426.85,604
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2006,Pauillac,94.82,94,1425.17,710
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2005,Pauillac,94.79,96,1423.5,879
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2004,Pauillac,94.76,93,1421.82,626
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2003,Pauillac,94.73,93,1420.15,648
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2002,Pauillac,94.7,93,1418.47,592
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2001,Pauillac,94.67,92,1416.8,663
+"Chateau Mouton Rothschild Premier Cru Classe, Pauillac",2000,Pauillac,94.64,94,1415.12,2541
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2023,Chateauneuf-du-Pape,94.22,-,417.54,-
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2022,Chateauneuf-du-Pape,94.22,-,417.54,-
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2021,Chateauneuf-du-Pape,94.16,91,412.68,91
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2020,Chateauneuf-du-Pape,94.13,95,410.25,90
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2019,Chateauneuf-du-Pape,94.1,96,407.83,91
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2018,Chateauneuf-du-Pape,94.07,94,405.4,77
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2017,Chateauneuf-du-Pape,94.04,94,402.97,89
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2016,Chateauneuf-du-Pape,94.01,95,400.55,96
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2015,Chateauneuf-du-Pape,93.98,96,398.12,93
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2014,Chateauneuf-du-Pape,93.94,92,395.69,70
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2013,Chateauneuf-du-Pape,93.91,93,393.26,73
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2012,Chateauneuf-du-Pape,93.88,93,390.83,80
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2011,Chateauneuf-du-Pape,93.85,93,388.41,79
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2010,Chateauneuf-du-Pape,93.82,95,385.98,181
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2009,Chateauneuf-du-Pape,93.79,94,383.55,116
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2008,Chateauneuf-du-Pape,93.76,91,381.13,81
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2007,Chateauneuf-du-Pape,93.73,95,378.7,210
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2006,Chateauneuf-du-Pape,93.7,94,376.27,102
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2005,Chateauneuf-du-Pape,93.67,95,373.84,127
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2004,Chateauneuf-du-Pape,93.64,94,371.42,87
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2003,Chateauneuf-du-Pape,93.61,93,368.99,105
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2002,Chateauneuf-du-Pape,93.61,93,368.99,105
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2001,Chateauneuf-du-Pape,93.55,93,364.13,118
+"Domaine de la Janasse, Chateauneuf-du-Pape, Vieilles Vignes",2000,Chateauneuf-du-Pape,93.52,93,361.71,109
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2023,Pessac-Leognan,95.56,-,783.24,-
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2022,Pessac-Leognan,95.53,97,780.83,667
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2021,Pessac-Leognan,95.5,96,778.41,562
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2020,Pessac-Leognan,95.47,97,776.0,653
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2019,Pessac-Leognan,95.44,97,773.58,614
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2018,Pessac-Leognan,95.41,96,771.16,734
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2017,Pessac-Leognan,95.38,96,768.75,541
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2016,Pessac-Leognan,95.35,97,766.33,717
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2015,Pessac-Leognan,95.32,97,763.92,856
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2014,Pessac-Leognan,95.29,95,761.5,494
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2013,Pessac-Leognan,95.26,93,759.09,460
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2012,Pessac-Leognan,95.23,95,756.67,509
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2011,Pessac-Leognan,95.2,94,754.26,541
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2010,Pessac-Leognan,95.17,97,751.84,1017
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2009,Pessac-Leognan,95.14,97,749.43,1018
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2008,Pessac-Leognan,95.1,94,747.01,529
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2007,Pessac-Leognan,95.07,94,744.6,510
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2006,Pessac-Leognan,95.04,95,742.18,557
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2005,Pessac-Leognan,95.01,97,739.77,948
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2004,Pessac-Leognan,94.98,94,737.35,493
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2003,Pessac-Leognan,94.95,94,734.94,556
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2002,Pessac-Leognan,94.92,92,732.52,465
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2001,Pessac-Leognan,94.89,94,730.11,540
+"Chateau Haut-Brion Premier Cru Classe, Pessac-Leognan",2000,Pessac-Leognan,94.86,96,727.69,968
